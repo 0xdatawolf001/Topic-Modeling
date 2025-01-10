@@ -90,7 +90,7 @@ if selected_topic_time_series:
         # Display messages sorted by sentiment (most unhappy first)
         st.subheader(f"Messages for {selected_topic_time_series} (Sorted by Most Negative Sentiment)")
         sorted_messages = topic_time_series_df.sort_values(by='sentiment_score', ascending=True)
-        st.dataframe(sorted_messages[['Author', 'Date', 'sentiment_score', 'Content']].rename(columns={'sentiment_score': 'Sentiment Score'}))
+        st.dataframe(sorted_messages[['Author', 'Date', 'sentiment_score', 'Content']].rename(columns={'sentiment_score': 'Sentiment Score'}), use_container_width=True)
     else:
         st.info("No data available for the selected topic in the current filter.")
 
@@ -110,14 +110,14 @@ if selected_topic_time_series: # Use the topic filter from sentiment analysis
     positive_messages = topic_filtered_df[topic_filtered_df['sentiment_score'] > 0].sort_values(by='sentiment_score', ascending=False).reset_index(drop=True)
     st.write(f"Number of positive messages: {len(positive_messages)}")
     if not positive_messages.empty:
-        st.dataframe(positive_messages[['Author', 'Date', 'sentiment_score', 'topic_name', 'Content']].rename(columns={'sentiment_score': 'Sentiment'}))
+        st.dataframe(positive_messages[['Author', 'Date', 'sentiment_score', 'topic_name', 'Content']].rename(columns={'sentiment_score': 'Sentiment'}), use_container_width=True)
 
     # --- Bad Messages ---
     st.subheader(f"Negative Sentiment Messages for {selected_topic_time_series}")
     negative_messages = topic_filtered_df[topic_filtered_df['sentiment_score'] < 0].sort_values(by='sentiment_score', ascending=True).reset_index(drop=True)
     st.write(f"Number of negative messages: {len(negative_messages)}")
     if not negative_messages.empty:
-        st.dataframe(negative_messages[['Author', 'Date', 'sentiment_score', 'topic_name', 'Content']].rename(columns={'sentiment_score': 'Sentiment'}))
+        st.dataframe(negative_messages[['Author', 'Date', 'sentiment_score', 'topic_name', 'Content']].rename(columns={'sentiment_score': 'Sentiment'}), use_container_width=True)
 else:
     st.info("Select a topic under 'Sentiment Analysis' to see positive and negative sentiment messages.")
 

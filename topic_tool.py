@@ -50,20 +50,33 @@ filtered_df = filtered_df[(filtered_df['Date'].dt.date >= date_range[0]) & (filt
 # --- Topic Ranking Table ---
 st.header("Topic Overview")
 
-topic_counts_overview = filtered_df['topic_name'].value_counts().reset_index()
-topic_counts_overview.columns = ['topic_name', 'message_count']
+topic_counts_overview = filtered_df.groupby('topic_name').agg(
+    message_count=('topic_name', 'count'),
+    min_sentiment=('sentiment_score', 'min'),
+    max_sentiment=('sentiment_score', 'max'),
+    avg_sentiment=('sentiment_score', 'mean'),
+    median_sentiment=('sentiment_score', 'median')
+).reset_index()
+
 topic_overview = pd.merge(topic_counts_overview, topics_df[['topic_name', 'representation']], on='topic_name', how='left')
 topic_overview = topic_overview.sort_values(by='message_count', ascending=False)
 
-st.subheader("Topics Ranked by Size")
-st.dataframe(topic_overview[['topic_name', 'message_count', 'representation']], use_container_width=True)
+st.subheader("Topics Ranked by Size with Sentiment Analysis")
+st.dataframe(topic_overview, use_container_width=True)
 
-# Ranked Bar Chart
+# Ranked Bar Chart with Color Based on Average Sentiment (Deduplicated and Larger)
 fig_topic_overview = px.bar(topic_overview, x='topic_name', y='message_count',
-                            labels={'message_count': 'Number of Messages', 'topic_name': 'Topic'},
-                            title='Topic Popularity',
+                            color='avg_sentiment',
+                            color_continuous_scale=px.colors.sequential.RdBu,
+                            labels={'message_count': 'Number of Messages', 'topic_name': 'Topic', 'avg_sentiment': 'Average Sentiment'},
+                            title='Topic Popularity (Colored by Average Sentiment)',
+                            height=600  # Increase the height of the chart
                             )
-st.plotly_chart(fig_topic_overview)
+# Improve readability
+fig_topic_overview.update_layout(xaxis_title="Topic", yaxis_title="Number of Messages")
+fig_topic_overview.update_xaxes(tickangle=45)  # Rotate x-axis labels for better visibility if needed
+
+st.plotly_chart(fig_topic_overview, use_container_width=True)
 
 # --- Section 1: Sentiment Analysis ---
 st.header("Sentiment Analysis")
@@ -134,7 +147,6 @@ if values_col:
     pivot_interactive = filtered_df.pivot_table(index=index_col, columns=columns_col, values=values_col, aggfunc=aggfunc)
     st.dataframe(pivot_interactive, use_container_width=True)
 
-
 st.header("BERTopic Intertopic Distance Map")
 # Generate the intertopic distance map using BERTopic's visualize_topics method
 # This method returns a plotly.graph_objects.Figure object
@@ -146,7 +158,6 @@ except Exception as e:
     st.error(f"Error generating or displaying the intertopic distance map: {e}")
 
 st.write("This visualization shows the distance between different topics. Topics that are closer together are more similar.")
-
 
 st.header("Similarity Map")
 # Generate the intertopic distance map using BERTopic's visualize_topics method
@@ -173,7 +184,3 @@ except Exception as e:
     st.error(f"Error generating or displaying the hierarchy map: {e}")
 
 st.write("This graph continues to group the topics together so that we can implicitly find the parent topic")
-
-
-
-

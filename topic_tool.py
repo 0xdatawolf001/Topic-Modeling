@@ -136,7 +136,7 @@ else:
 
 # --- Section 4: Interactive Data Exploration ---
 st.header("Interactive Data Exploration")
-
+st.text("Note that the UI/UX for this isn't good and you may get a nasty error, just power through it and select all intended columns and it should work")
 st.subheader("Explore Data with Pandas Pivot Table")
 index_col = st.selectbox("Select Index Column for Pivot Table", filtered_df.columns.tolist(), key='index_col')
 columns_col = st.selectbox("Select Column for Pivot Table", [None] + filtered_df.columns.tolist(), key='columns_col')

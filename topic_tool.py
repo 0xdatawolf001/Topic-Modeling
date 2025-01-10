@@ -12,7 +12,7 @@ topic_model = BERTopic.load("./model")
 # Data Preparation
 posts_df['date'] = pd.to_datetime(posts_df['date'])
 df = pd.merge(posts_df, topics_df, on='topic_cluster', how='left')
-df.rename(columns={'date': 'Date', 'content': 'Content', 'author': 'Author'}, inplace=True) # Consistent naming
+# df.rename(columns={'date': 'date', 'content': 'content', 'author': 'author'}, inplace=True) # Consistent naming
 
 st.title("Prediction Market Discord Message Analysis")
 st.text(f"Chats in Polymarket and Kalshi are scraped from {posts_df.date.min()} to {posts_df.date.max()}. Chats are cleaned and clustered with BERTopic")
@@ -33,9 +33,9 @@ for bool_filter in boolean_filters:
 # --- Date Range Filter ---
 st.sidebar.subheader("Date Range")
 date_range = st.sidebar.date_input("Select Date Range",
-                                   min_value=df['Date'].min().date(),
-                                   max_value=df['Date'].max().date(),
-                                   value=(df['Date'].min().date(), df['Date'].max().date()))
+                                   min_value=df['date'].min().date(),
+                                   max_value=df['date'].max().date(),
+                                   value=(df['date'].min().date(), df['date'].max().date()))
 
 # Apply Filters
 filtered_df = df[df['protocol'].isin(protocols)]
@@ -45,7 +45,7 @@ for bool_filter, value in boolean_filter_values.items():
     if value:
         filtered_df = filtered_df[filtered_df[bool_filter] == value]
 
-filtered_df = filtered_df[(filtered_df['Date'].dt.date >= date_range[0]) & (filtered_df['Date'].dt.date <= date_range[1])]
+filtered_df = filtered_df[(filtered_df['date'].dt.date >= date_range[0]) & (filtered_df['date'].dt.date <= date_range[1])]
 
 # --- Topic Ranking Table ---
 st.header("Topic Overview")
@@ -62,7 +62,7 @@ topic_overview = pd.merge(topic_counts_overview, topics_df[['topic_name', 'repre
 topic_overview = topic_overview.sort_values(by='message_count', ascending=False)
 
 st.subheader("Topics Ranked by Size with Sentiment Analysis")
-st.dataframe(topic_overview, use_container_width=True)
+st.dataframe(topic_overview, use_container_width=True, height=400)
 
 # Ranked Bar Chart with Color Based on Average Sentiment (Deduplicated and Larger)
 fig_topic_overview = px.bar(topic_overview, x='topic_name', y='message_count',
@@ -91,12 +91,12 @@ if selected_topic_time_series:
     topic_time_series_df = filtered_df[filtered_df['topic_name'] == selected_topic_time_series]
 
     # Aggregate sentiment by month
-    sentiment_over_time = topic_time_series_df.groupby(pd.Grouper(key='Date', freq='M'))['sentiment_score'].mean().reset_index()
+    sentiment_over_time = topic_time_series_df.groupby(pd.Grouper(key='date', freq='M'))['sentiment_score'].mean().reset_index()
 
     if not sentiment_over_time.empty:
         # Line chart for sentiment trend
-        fig_sentiment_trend = px.line(sentiment_over_time, x='Date', y='sentiment_score',
-                                     labels={'sentiment_score': 'Average Sentiment', 'Date': 'Month'},
+        fig_sentiment_trend = px.line(sentiment_over_time, x='date', y='sentiment_score',
+                                     labels={'sentiment_score': 'Average Sentiment', 'date': 'Month'},
                                      title=f'Sentiment Trend for {selected_topic_time_series}')
         st.plotly_chart(fig_sentiment_trend)
 
@@ -123,14 +123,14 @@ if selected_topic_time_series: # Use the topic filter from sentiment analysis
     positive_messages = topic_filtered_df[topic_filtered_df['sentiment_score'] > 0].sort_values(by='sentiment_score', ascending=False).reset_index(drop=True)
     st.write(f"Number of positive messages: {len(positive_messages)}")
     if not positive_messages.empty:
-        st.dataframe(positive_messages[['Author', 'Date', 'sentiment_score', 'topic_name', 'Content']].rename(columns={'sentiment_score': 'Sentiment'}), use_container_width=True)
+        st.dataframe(positive_messages[['author', 'date', 'sentiment_score', 'topic_name', 'content']].rename(columns={'sentiment_score': 'Sentiment'}), use_container_width=True)
 
     # --- Bad Messages ---
     st.subheader(f"Negative Sentiment Messages for {selected_topic_time_series}")
     negative_messages = topic_filtered_df[topic_filtered_df['sentiment_score'] < 0].sort_values(by='sentiment_score', ascending=True).reset_index(drop=True)
     st.write(f"Number of negative messages: {len(negative_messages)}")
     if not negative_messages.empty:
-        st.dataframe(negative_messages[['Author', 'Date', 'sentiment_score', 'topic_name', 'Content']].rename(columns={'sentiment_score': 'Sentiment'}), use_container_width=True)
+        st.dataframe(negative_messages[['author', 'date', 'sentiment_score', 'topic_name', 'content']].rename(columns={'sentiment_score': 'Sentiment'}), use_container_width=True)
 else:
     st.info("Select a topic under 'Sentiment Analysis' to see positive and negative sentiment messages.")
 

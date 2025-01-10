@@ -1,0 +1,41 @@
+topic_cluster,topic_count,name,representation,representative_docs,is_product_complaint,is_product_feedback,is_product_competitor,is_bet_discussions,topic_name
+133,6,133_cbb_cfb_college_football,"['cbb' 'cfb' 'college' 'football' 'basketball' 'cbk' 'page' 'iowa' 'link'
+ 'teams']","['also possibly a market on cfb cbb transfer portal entrances exits'
+ 'why is today s only college football game not listed under cfb'
+ 'i think something is funky with the college football markets ui where it is showing college basketball data for each teams record might make it confusing for people to know if they re betting on cfb or cbk']",False,True,False,True,College Sports Betting
+6,36,6_activating_funds_activate_deposited,"['activating' 'funds' 'activate' 'deposited' 'deposits' 'pending'
+ 'deposit' 'activated' 'relogin' 'activation']","['you have them in your wallet they just need fund activation can you please go to and click on the blue button to activate your funds'
+ 'hello if you re having issues activating funds please go to and click on the blue button to activate your funds'
+ 'hey here are a few things you can try to fix fund activation press shift f log out then relogin go to and try to activate funds again if that doesn t work please check if your system time is in sync with your network time search date time in windows and then click on the sync now button then try again']",False,True,False,False,fund activation
+91,9,91_outcomesprice_outcomeprices_outcomeprice_outcomes,"['outcomesprice' 'outcomeprices' 'outcomeprice' 'outcomes'
+ 'lasttradeprice' 'outcome' 'closure' 'resolves' 'prices' 'deterministic']","['i have tried to verify that with the actual outcome on the polymarket website and that was not the case example hows yes no and the subgraph data at shows resolved price of but the final outcome is no per so i m not sure if it s actually boolean in the cfo where first value is true and second value is false hence i m curious how they are actually mapping the final outcome on the website'
+ 'no it s doing exactly as its intended in that json response what it s saying is at the current moment yes index in outcomes resolves to a price point of index in outcomeprices and no index in outcomes resolves to a price point of index in outcomeprices and if you look at you can verify this by seeing that the bet side yes did indeed resolve to being priced at because its worthless'
+ 'exactly right except ignore truthness outcome and outcomeprice just dictate the current price for each outcome based on the market activity nothing about what is true or not i e yes could be and no could be or if the market has closed or reached a point where the bet is deterministic you ll see outcome prices like yes no or yes no outcome price itself is not related to the closure or truthness of the market']",True,True,False,True,Outcome Pricing Discrepancy
+78,10,78_misinformation_misleading_untrue_fake,"['misinformation' 'misleading' 'untrue' 'fake' 'false' 'journalist'
+ 'clarification' 'removed' 'credible' 'fact']","['very misleading title on the fact check caused by lithium battery'
+ 'in the comments they re quoting things that are untrue it felt like they were shifting the narrative'
+ 'i had seen that article the journalist was probably tripping when he was writting it its false information']",False,True,False,False,Misinformation Reporting
+150,6,150_means_values_lowest_exclusionary,"['means' 'values' 'lowest' 'exclusionary' 'extreme' 'mean' 'highest'
+ 'becomes' 'second' 'excluded']","['the of highest and lowest values not related to the time'
+ 'or just the most extreme of values total so the top of the last seconds wont count and the bottom of the last seconds wont count'
+ 'highest lowest so of the final strikes before pm or total of the most extreme values in the final strikes before pm']",False,False,False,True,Bet Value Range
+5,42,5_tanner_candiey_tannner_unless,"['tanner' 'candiey' 'tannner' 'unless' 'sent' 'username' 'messaged'
+ 'imposters' 'sure' 'pretending']","['tanner polymarket or candiey will contact you and they will help you recover your funds'
+ 'wait for candiey and tanner to contact you here pls'
+ 'tanner or candiey will contact you and help you']",False,True,False,False,Funds Recovery Scam
+79,10,79_payouts_payout_losses_cotnracts,"['payouts' 'payout' 'losses' 'cotnracts' 'payments' 'cents' 'settlement'
+ 'dollar' 'total' 'paid']","['i have been noticing this a lot this must be a bug i think the contract should have covered the contract cost and should have received way more than i feel like i am getting less than break even i am wondering why my account hasn t been growing this past month it is because of stuff like this this is wrong please explain and please fix this'
+ 'hello i need help i am disappointed there is something wrong with the payout i won a trade on nasdaq today where i brought contracts but it only paid out with an average price of cents but i lost on another trade for nasdaq today for contracts i lost the average price was cents why am i losing more money that i am making'
+ 'this has probably been mentioned before but payouts and portfolio values are simply wrong overinflated and don t regonize the negative risk payments that have already been paid out for example i got all the third party candidate nos c so shouldn t the payouts actually say just of what it currently states the payout if win should mean how much money hits your account on settlement not simply the of contracts']",False,True,False,False,Payout Issues
+118,7,118_deposited_kalshi_emailed_deposits,"['deposited' 'kalshi' 'emailed' 'deposits' 'joined' 'ops' 'sent' 'sure'
+ 'added' 'cards']","['kalshi ops i messaged you with a very serious concern i deposited it charged my card but said error code and you guys are working on something'
+ 'kalshi ops hey there we added some security features to prevent some fraud on kalshi so existing cards may no longer work'
+ 'kalshi ops hi joined around the election and love it q are our deposits secured by a governmental agency bank etc and could you point me to the relevant link docs if so']",True,True,False,False,Kalshi Deposit Issues
+31,17,31_polyapiexception_partialcreateorderoptions_exceptions_exception,"['polyapiexception' 'partialcreateorderoptions' 'exceptions' 'exception'
+ 'error' 'able' 'request' 'raise' 'llimit' 'using']","['i use python just like in the docs here i am getting back signed order but when the code runs resp client post order signed order ordertype gtc i am getting the following error py clob client exceptions polyapiexception polyapiexception status code error message'
+ 'raise polyapiexception resp py clob client exceptions polyapiexception polyapiexception status code error message been getting this exception a lot randomly sometimes my orders go through and sometimes they result in this even though i definitely have enough balance anyone know how to fix this'
+ 'need help the error log is py clob client exceptions polyapiexception polyapiexception status code error message py clob client exceptions polyapiexception polyapiexception status code error message']",False,True,False,False,API Exception Errors
+23,20,23_updatebalanceallowance_allowances_allowance_allow,"['updatebalanceallowance' 'allowances' 'allowance' 'allow' 'undo'
+ 'permission' 'giving' 'bid' 'issue' 'submitting']","['thank you imho the documentation is lacking in this regard also a little bit cryptic to call this allowance but thanks for pointing me in this direction'
+ 'paying usdc if someone can walk me through the python code that will allow me to place a bid ask having troubles with setting allowance and placing the bid ask'
+ 'hello i call the function of get balance allowance got balance and also can see i have set the usdc allowance i am confused that i have usdc in my account but why got balance from the return value of function get balance allowance']",False,True,False,False,Usdc Allowance Issue

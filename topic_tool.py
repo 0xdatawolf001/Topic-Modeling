@@ -87,10 +87,10 @@ if selected_topic_time_series:
                                      title=f'Sentiment Trend for {selected_topic_time_series}')
         st.plotly_chart(fig_sentiment_trend)
 
-        # Display messages sorted by sentiment (most unhappy first)
-        st.subheader(f"Messages for {selected_topic_time_series} (Sorted by Most Negative Sentiment)")
-        sorted_messages = topic_time_series_df.sort_values(by='sentiment_score', ascending=True)
-        st.dataframe(sorted_messages[['Author', 'Date', 'sentiment_score', 'Content']].rename(columns={'sentiment_score': 'Sentiment Score'}), use_container_width=True)
+        # # Display messages sorted by sentiment (most unhappy first)
+        # st.subheader(f"Messages for {selected_topic_time_series} (Sorted by Most Negative Sentiment)")
+        # sorted_messages = topic_time_series_df.sort_values(by='sentiment_score', ascending=True)
+        # st.dataframe(sorted_messages[['Author', 'Date', 'sentiment_score', 'Content']].rename(columns={'sentiment_score': 'Sentiment Score'}), use_container_width=True)
     else:
         st.info("No data available for the selected topic in the current filter.")
 

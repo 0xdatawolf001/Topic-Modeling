@@ -25,7 +25,7 @@ protocols = st.sidebar.multiselect("Select Protocol", df['protocol'].unique(), d
 
 # --- Boolean Filters ---
 st.sidebar.subheader("Topic Type Filters")
-boolean_filters = ['is_product_complaint', 'is_product_feedback', 'is_product_competitor', 'is_bet_discussions']
+boolean_filters = ['is_product_feedback', 'is_user_painpoint', 'is_noise']
 boolean_filter_values = {}
 for bool_filter in boolean_filters:
     boolean_filter_values[bool_filter] = st.sidebar.checkbox(bool_filter.replace('_', ' ').title())

@@ -1,47 +1,15 @@
 author,date,content,protocol,topic_cluster,sentiment_score
-krellin,2024-11-13,I personally have not place a bet on it due to this potential issue.,Kalshi,0,0.0
-.notpikachu,2024-12-29,"Yeah id recommend trying websockets lib at this point, I don't see anything different between our code otherwise, sorry",Kalshi,0,0.5267
-lorenzovonmatterhorn9912,2024-11-21,"Fyi, the fact that you try so hard to hide your fees and won't respond to any questions about them is getting pretty annoying. This would be like going to Walmart and giving a $100 bill for your groceries and not knowing how much change you got back. I was pretty active in a market today that on the market page, it showed I made a profit. I went through and tallied up all the fees on the activity page and I actually lost money. Everyone knows that this is a business for you and that you need fees to survive, you don't need to pretend like it's not happening.",Kalshi,0,0.94
-gesundheit223,2024-12-09,"I think that fixed it.
-
-Now this code:
-
-```import os
-
-from dotenv import load_dotenv
-
-from py_clob_client.client import ClobClient
-from py_clob_client.clob_types import BalanceAllowanceParams, ApiCreds
-from py_clob_client.constants import POLYGON
-
-load_dotenv()
-
-host = os.getenv(""HOST"")
-key = os.getenv(""PK"")
-creds = ApiCreds(
-    api_key=os.getenv(""CLOB_API_KEY""),
-    api_secret=os.getenv(""CLOB_SECRET""),
-    api_passphrase=os.getenv(""CLOB_PASS_PHRASE""),
-)
-chain_id = POLYGON
-client = ClobClient(host, key=key, chain_id=chain_id, creds=creds, signature_type=1, funder=""0xb4f36D09fA59Cb4d3e35F5F39A0D12D54CFDaFd7"")
-
-# Check current allowance & balance
-params = BalanceAllowanceParams(
-    asset_type=""COLLATERAL""
-)
-balance_allowance = client.get_balance_allowance(params)
-print(""Current balance and allowance:"", balance_allowance)
-```
-
-Returns this:
-
-Current balance and allowance: {'balance': '188561701', 'allowances': {'0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E': '115792089237316195423570985008687907853269984665640564039457584007912292113115', '0xC5d563A36AE78145C45a50134d48A1215220f80a': '115792089237316195423570985008687907853269984665640564039457584007912539639937', '0xd91E80cF2E7be2e162c6513ceD06f1dD0dA35296': '115792089237316195423570985008687907853269984665640564039457584007913129639935'}}",Polymarket,23,0.0
-.dirtymobs,2024-12-19,"i think it's a clarification happened, it would not be an effective yes",Polymarket,0,0.0377
-kevley26,2024-11-30,@Tanner | Polymarket You guys really should remove the additional context or at least replace it with a message clarifying that only Lebanon and Israel have announced a ceasefire and that Hezbollah still needs to announce an agreement for it to resolve to YES per the rules,Polymarket,0,0.8176
-candieyy,2024-11-11,posted it in market review so the market team can see,Polymarket,0,0.0
-candieyy,2024-12-21,"hey, the Polymarket app for android is only to search and look at markets
-
-to trade, you must use the site",Polymarket,127,0.0
-slade366,2024-12-22,Can you send a screenshot of your denver positions,Kalshi,0,0.0
-candieyy,2024-12-18,"as soon as ETH  reaches a price greater than $4,868.00, it is resolving Yes - it doesn't matter if it goes down after that",Polymarket,0,0.7964
+albist,2024-12-11,"hey!
+I was going to get back to you on your ticket but here is even better! Let me check this and come back to you asap. Closing the ticket in the mean time as I will get back to you here!",Morpho,0,0.5927
+76ixer,2025-01-11,when they ll create the new PT-USD0-March\USDC Vault??,Morpho,11,0.2732
+generalbooty4302,2024-12-04,"Hmm weird, some guy made a YouTube video about it 2 weeks ago",Morpho,25,-0.1779
+_maxoss,2024-12-05,Hi @albist | Morpho 🦋  and team. Could you please clarify if the pt-usd0++march24 oracle is hardcoded to a predefined Apr curve of the pt ? Or if it is the market value of the pt that is taken into consideration? Thanks,Morpho,6,0.34
+0xdarkstar,2025-01-14,"you dont really ""stake"" on a wallet app/extension - its just a frontend for your private key.",Aave Community,9,0.0
+schizoxbt,2025-01-01,will say to kinda quell a lot of the panic/whatever this is: some of this stuff isn't happening yet re: buybacks and such yet. We are fluid (kek) and things can always change. But trust that the team will keep an eye on stuff and are watching to see what happens going forward,Instadapp,0,0.5106
+magunto,2025-01-09,is there a plan to increase deposit  limits on zkS? (ignite pools),Aave Community,29,0.3182
+lovedret,2025-01-10,"https://app.morpho.org/vault?vault=0xbEef047a543E45807105E51A8BBEFCc5950fcfBa&network=mainnet
+always say ""Application error: a client-side exception has occurred (see the browser console for more information).""",Morpho,0,-0.4019
+adechevigne,2025-01-13,"Hey guys,
+In the repay function (see Morpho.sol, line 269, can't post a link apparently) in what unit is the assets parameter of the onMorphoRepay call? Because it looks like it should be multiplied by 10^12 to be usable (not sure if that's clear).
+I might be missing something though, I haven't done a lot of Solidity",Morpho,0,0.1779
+essah10,2024-12-04,"Hey yes its possible, if you have a good hf you can always withdraw some of your collateral, pls note that your hf will drop too then",Aave Community,0,0.5859

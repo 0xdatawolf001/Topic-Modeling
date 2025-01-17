@@ -14,8 +14,8 @@ posts_df['date'] = pd.to_datetime(posts_df['date'])
 df = pd.merge(posts_df, topics_df, on='topic_cluster', how='left')
 # df.rename(columns={'date': 'date', 'content': 'content', 'author': 'author'}, inplace=True) # Consistent naming
 
-st.title("Prediction Market Discord Message Analysis")
-st.text(f"Chats in Polymarket and Kalshi are scraped from {posts_df.date.min()} to {posts_df.date.max()}. Chats are cleaned and clustered with BERTopic")
+st.title("Discord Message Analysis")
+st.text(f"Chats are scraped from {posts_df.date.min()} to {posts_df.date.max()}. Chats are cleaned and clustered with BERTopic")
 
 # Sidebar Filters
 st.sidebar.header("Filters")
@@ -25,7 +25,7 @@ protocols = st.sidebar.multiselect("Select Protocol", df['protocol'].unique(), d
 
 # --- Boolean Filters ---
 st.sidebar.subheader("Topic Type Filters")
-boolean_filters = ['is_product_feedback', 'is_user_painpoint', 'is_noise']
+boolean_filters = ['is_product_feedback', 'is_user_painpoint', 'is_noise' , 'is_user_request']
 boolean_filter_values = {}
 for bool_filter in boolean_filters:
     boolean_filter_values[bool_filter] = st.sidebar.checkbox(bool_filter.replace('_', ' ').title())

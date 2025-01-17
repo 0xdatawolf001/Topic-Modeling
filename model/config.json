@@ -13,5 +13,5 @@
   "verbose": false,
   "zeroshot_min_similarity": 0.7,
   "zeroshot_topic_list": null,
-  "embedding_model": "HIT-TMG/KaLM-embedding-multilingual-mini-instruct-v1.5"
+  "embedding_model": "jxm/cde-small-v2"
 }

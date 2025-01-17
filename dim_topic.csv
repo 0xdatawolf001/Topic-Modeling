@@ -1,582 +1,157 @@
-topic_cluster,topic_count,name,representation,representative_docs,is_user_painpoint,is_product_feedback,is_noise,topic_name
-0,13597,0_fee_sent_transaction_support,"['fee' 'sent' 'transaction' 'support' 'ops' 'polygon' 'deadline' 'state'
- 'added' 'rewards']","['is there a way to get the funds back to coinbase'
- 'i just need to confirm something first can you please go to and send me the polygon address you see'
- 'the market rules state pretty clearly in multiple ways the market will resolve to yes if the acting president fails to sign the relevant bill s extending government funding by the applicable deadline s even if no government shutdown is explicitly announced biden didn t sign end of story for this market to resolve to yes any shutdown will count including partial shutdowns or any portion of the government going unfunded site banner read the rules this market will resolve to yes if president biden doesn t sign the funding bill by midnight no one can help you if you can t read']",True,True,False,Transaction Issues
-63,12,63_quantities_calculated_calculation_using,"['quantities' 'calculated' 'calculation' 'using' 'means' 'percentage'
- 'thousands' 'added' 'many' 'traded']","['hello i am interested in trying to provide lots of volume for has this peogram been implemented'
- 'polymarket hi i am new here i spent and buy shares at price c then i sold i found i have volume for this trade instead i spent and i have much higher rank suddenly i am wodering how the volume is figuired and seems like equal to how many shares i have traded'
- 'when using the trade i am unsure how to get how much of my bucket was filled vs how much the person bought for when they buy large share quantities that hit multiple users']",True,True,False,Trade Volume Calculation
-154,6,154_without_compiling_dataset_except,"['without' 'compiling' 'dataset' 'except' 'publishes' 'because' 'he'
- 'isnt' 'including' 'actual']","['presumably james has the actual data on the distribution'
- 'he wouldn t just write it in the notes forever plus that isnt useful for people who purchase his data sets'
- 'he has published the data the same way for years without including this new special dataset he s publishing it now because he s getting emails']",False,False,True,Data Distribution Issue
-65,11,65_swapper_swap_jumper_joined,"['swapper' 'swap' 'jumper' 'joined' 'exchange' 'using' 'transactions'
- 'exodus' 'cex' 'cards']","['exodus also has an inhouse swapper thats decent'
- 'yeah so my advice would be to use jumper exchange and slowly swap'
- 'i recently joined thix com where we provide on and off ramp payment solutions credit and debit cards for crypto nfts game tokens and casino transactions backed by industry leaders like xsolla and avalanche our system offers audit coverage fraud protection and insurance on chargebacks let me know if you d like to save time and money on your web transactions i d be happy to chat']",False,False,False,Cryptocurrency Exchange
-77,10,77_used_theyve_reaching_mutated,"['used' 'theyve' 'reaching' 'mutated' 'change' 'other' 'include' 'way'
- 'changed' 'their']","['theyve changed the name to include other now'
- 'the british changed their coin currency system around'
- 'it used to be that way it was changed to this way to match other finance apps iirc']",False,False,True,Historical Changes
-75,10,75_expiration_expiry_expires_irrevocable,"['expiration' 'expiry' 'expires' 'irrevocable' 'expire' 'happens' 'bc'
- 'purposes' 'mean' 'yes']","['says it expires on the nd but does the price have to be listed at the expiration time or just has to hit occur during the week'
- 'it s showing expiration value as expiration value for the pm expiry bear in mind this is the trimmed mean'
- 'if ppl are doing it for convenience purposes only and it s pct likely then there s really no reason to expire it crazy stuff happens sometimes']",True,True,False,Product Expiration
-33,16,33_bacbdf_oracletype_cedfc_hellllllllllllllllllllllllllllllllllllllllllp,"['bacbdf' 'oracletype' 'cedfc'
- 'hellllllllllllllllllllllllllllllllllllllllllp' 'df' 'afb' 'fd' 'ae' 'bf'
- 'chainid']","['c e b ae e eventindex chainid oracletype optimistic oracle v this one isn t disputed yet'
- 'ce c c e b fa a f eventindex chainid oracletype optimistic oracle v fa e e bc b ab b d eventindex chainid oracletype optimistic oracle v'
- 'f c e faf ed d f a cd ac ebe f b d bbf ec c a e ce c e b b d fb cedfc fd fde e d a e ec ac c b d f c cae b f e cd e c eb ebd f b b c bcbad ec c fd a af b f bda ec ce eb cbb ce eb b']",True,True,False,Oracle Chain Issues
-36,15,36_georgescu_originally_confusing_change,"['georgescu' 'originally' 'confusing' 'change' 'dodgy' 'misleading'
- 'caling' 'rename' 'călin' 'other']","['bought no shares for călin georgescu while he was v and then it got converted to no others i know the rules but this is dodgy and misleading'
- 'guys please do not update the naming once the market starts does it make sense to enforce such a rule other other incl georgescu georgescu other incl georgescu made many people confused and lost money by betting on no georgescu which is not equivalent to no other as new candidates will join the next round of elections i know they should first read the description but naming mismatch is confusing'
- 'yes but there s two things here who is in charge of the market changed the front end name from others to călin georgescu only and put his name up so when you buy no shares at that stage it says clearly no călin georgescu not no others so it should take into account the time when you bought those no shares and then changing it to no others is dodgy at best it s really not right and would like to officially dispute the handling of this if there is any official workflow with polymarket i hope it s not the wild wild west']",True,True,False,Naming Confusion
-151,6,151_dude_guy_saying_said,"['dude' 'guy' 'saying' 'said' 'sure' 'because' 'person' 'asked' 'clown'
- 'placed']","['or was that the guy who said he just pushed for the rule'
- 'dude i clearly picked one guy and placed on the other'
- 'is that the guy who said he asked his law professor']",False,False,True,casual conversation
-17,22,17_grandfather_grandpa_william_grandson,"['grandfather' 'grandpa' 'william' 'grandson' 'pultegroup' 'father'
- 'pulte' 'founder' 'saw' 'mr']","['atlanta september pultegroup inc nyse phm one of america s largest homebuilding companies said today that william j bill pulte has been appointed to its board of directors mr pulte is the grandson of the company s founder william j pulte'
- 'both william j pulte the grandfather and william j pulte the grandson both go by bill pulte lol'
- 'polymarket used an image of the deceased grandfather william j pulte and incorrectly listed his name while the actual candidate is his grandson commonly known as bill pulte but whose legal name is also william pulte']",False,False,True,Pulte family history
-130,6,130_discords_sure_discord_supports,"['discords' 'sure' 'discord' 'supports' 'my' 'making' 'several' 'thinking'
- 've' 'help']","['and i m sure there are discords lots of discords i m on like several different groups and i don t even try'
- 'my thinking was if i posted that in the discord general it would have caused a stir'
- 'out of all discord supports i ve experience you re the most professional by far polypepesunglass']",False,False,True,Discord Discussion
-86,9,86_weird_confusing_saw_happening,"['weird' 'confusing' 'saw' 'happening' 'idk' 'odd' 'yeah' 'hmm'
- 'screaming' 'disappears']","['oh okay cause i ve seen someone come in then immediately disappears so maybe they changed perhaps'
- 'i don t even know why i m mentioning it since i was holding no but weird seeing such a big mistake'
- 'im screaming into the void ik but it s super weird']",False,False,True,Strange occurrences
-67,11,67_drones_drone_helicopters_flown,"['drones' 'drone' 'helicopters' 'flown' 'aircraft' 'sightings' 'manned'
- 'aliens' 'operate' 'enforcement']","['govt hobbyist drones law enforcement drones commercial drones polymarket the nature of the drones still remains a mystery'
- 'additional context a qualifying statement must confirm new or unknown information about the nature or origin of the drones statements such as some of those drone sightings are in fact drones would not qualify however a statement about their origin or nature e g these drones are aliens or these drones are iranian spy craft would count dhs fbi dod joint statement'
- 'we assess that the sightings to date include a combination of lawful commercial drones hobbyist drones and law enforcement drones as well as manned fixed wing aircraft helicopters and stars mistakenly reported as drones uma peanut gallery p nothing to see here']",False,False,False,Drone Sightings
-43,14,43_confused_saying_sure_lose,"['confused' 'saying' 'sure' 'lose' 'means' 'say' 'aware' 'because' 'idk'
- 'its']","['ok listen you really send me mixed signals here'
- 'i think you are confused i m not chris goldstein'
- 'i m not angry with you you just seem to be confused and grasping at straws']",False,False,True,User Confusion
-99,8,99_either_atlas_fec_fallbacks,"['either' 'atlas' 'fec' 'fallbacks' 'than' 'll' 'wikipedia' 'compare'
- 'whether' 'rn']","['there isn t a definitive answer on whether atlas is the only source of truth but the rules of the market make it pretty clear to me that there s obvious fallbacks in case atlas deviates'
- 'but regardless go compare fec report to nyt to atlas to wikipedia you will find them all different at the margins'
- 'i ll go look rn at fec vs nyt vs wikipedia vs atlas for and see']",False,False,False,Data Source Comparison
-129,7,129_referenced_irrelevant_source_compromised,"['referenced' 'irrelevant' 'source' 'compromised' 'said' 'move' 'use'
- 'itself' 'then' 'should']","['and the source itself is irrelevant only the data'
- 'if the source is compromised then you would just move on to the next source'
- 'i think it is much more obvious to just use the listed source']",False,False,True,Data Source Handling
-89,9,89_evidence_nobody_substantiated_nothing,"['evidence' 'nobody' 'substantiated' 'nothing' 'without' 'whatsoever'
- 'arguing' 'empty' 'claims' 'own']","['no opposing evidence was presented you certainly have fucking nothing'
- 'but then nobody credible substantiated that at all'
- 'you haven t substantiated your own claims at all whatsoever']",False,False,True,Lack of Evidence
-7,35,7_dave_daves_emailed_bribed,"['dave' 'daves' 'emailed' 'bribed' 'dumps' 'suspicious' 'manipulating'
- 'deliberately' 'david' 'conspiracy']","['you are contradicting yourself like crazy you are okay with the uncertainty of dave getting busy or covid and that s not a curveball but him updating his site to clearly express he wants nothing to do with this is a curveball'
- 'the person claimed without proof so take with a grain of salt that dave leip emailed him saying his nonprofit received a large donation conditioned on the fact that he perform this extra dump add in by the th'
- 'remember dave never signed up for this he didn t ask for millions of dollars to hinge on his updating not only does making it state certified align with both the spirit and letter of the rules it also give the poor guy a break he won t be getting any more emails about how fast or slow he s updating']",False,False,True,Dave's suspicious activity
-52,13,52_methodology_invented_existed_precedent,"['methodology' 'invented' 'existed' 'precedent' 'method' 'used' 'holders'
- 'uselectionatlas' 'methodolgy' 'original']","['yes the resolution source was pressured into creating an additional page under a new methodolgy prior to that it was using the same methodology for years that old methodology also happens to be the one that was used when the market was created'
- 'the website invented a new methodology in response to a pressure campaign from no holders polymarket will stick to the same methodology that was used when the market was created and has been used by atlas for the last years'
- 'the fundamental question is do we stick to the methodology available at the time the markets were published and the methodology all of these markets were betting on or switch to the new non default methodology that was likely created in response to pressure by emails']",True,True,False,Methodology Change
-132,6,132_paragraphs_sentences_paragraph_sentence,"['paragraphs' 'sentences' 'paragraph' 'sentence' 'second' 'leaving'
- 'ambiguous' 'final' 'usual' 'last']","['can you point to how the final paragraph is ambiguous'
- 'read the first sentence of the final paragraph'
- 'you left out the last sentences of the second paragraph and the third paragraph']",True,True,False,Document Clarity
-51,13,51_decentralized_decentralization_decentralize_centralized,"['decentralized' 'decentralization' 'decentralize' 'centralized'
- 'overrule' 'overrules' 'polymarket' 'monopoly' 'disagree' 'issue']","['agree to disagree i don t see the point in pretending these are decentralized if it s decided by some programmer on the poly team'
- 'we all agreed mount hermon would not be counted then polymarket a centralized thing overrules uma which was decentralized whack asf'
- 'poly itself being centralized while the resultor being decentralized is the issue anyways too reliant on poly to make a good decision and not overrule']",True,True,False,Polymarket Centralization Issue
-111,8,111_dataset_updates_holders_polymarkets,"['dataset' 'updates' 'holders' 'polymarkets' 'resolutions' 'used'
- 'default' 'reputation' 'users' 'again']","['it s the only dataset site that has updates fast and relatively accurate enough for a market like poly in any case he had until december to release a page like the one he did today so he did nothing wrong'
- 'i agree that it s a good addition to the site for future resolutions it s just that in a case where the source adds a secondary data set it makes no sense to switch to that one in the middle of an open market all future markets should open with the specific data set they will use in the rules this market should just use the default data set that everyone both yes and no have been going off of'
- 'the default data should be used to resolve this market it s the dataset that was visible when the market was created and it s the dataset that has been published since allowing no holders to lobby the website owner for an alternate dataset in order to steal a win is horible for polymarkets reputation and for users confidence in future markets']",True,True,False,Dataset Resolution Issues
-140,6,140_pages_page_include_whatever,"['pages' 'page' 'include' 'whatever' 'again' 'added' 'hidden' 'default'
- 'side' 'done']","['on both his main page here other section as well as the default page in here he just added this secondary page and i believe that hasn t been done before notes from previous years are not comparable'
- 'just to clarify the main page remains unchanged he simply added this hidden secondary page for whatever reason which i believe is to get the no side out of his way'
- 'once again he only offered a secondary hidden page probably to get you off his back but the main page as well as multiple other pages on his website include the same totals as always']",False,True,False,Website Page Changes
-157,6,157_complaining_bitching_frustrated_issue,"['complaining' 'bitching' 'frustrated' 'issue' 'above' 'squeaky' 'us'
- 'comments' 'notice' 'loudly']","['yea read above i kinda chewed them out on this lots of people are frustrated take a number'
- 'i notice most of the people loudly complaining about this in comments bought at c'
- 'the squeaky wheel gets the oil around here we have to keep complaining until someone helps us lol']",True,True,False,Product Complaint
-38,15,38_modifying_adjustments_tweaking_changes,"['modifying' 'adjustments' 'tweaking' 'changes' 'modified' 'change'
- 'changing' 'deltas' 'again' 'update']","['it s best if the admins do that screenshots can be modified'
- 'when you say a bit of tweaking do you mean adjustments other than the ones already mentioned modifying env files'
- 'does this mean that in cases of erroneous climate reports that adjustments will be made as well']",False,True,False,configuration changes
-123,7,123_website_site_userbase_using,"['website' 'site' 'userbase' 'using' 'scams' 'millions' 'hobby' 'many'
- 'making' 'neat']","['there are millions at play here this is a hobby website'
- 'volume and userbase has been consistently going up someone made this neat site'
- 'thank you for the hard work to make this site great with new rugs new scams and so many swing trades']",False,True,False,Website Feedback
-61,12,61_evidence_haven_announcement_sent,"['evidence' 'haven' 'announcement' 'sent' 'happened' 'ish' 'said'
- 'presenting' 've' 'way']","['i don t have any additional info for you at the moment'
- 'dude we have been presenting crystal clear evidence here for ish hours'
- 'we have sent the documents of evidence u have requested']",True,True,False,Lack of Evidence
-59,12,59_regulators_cftc_regulation_compliance,"['regulators' 'cftc' 'regulation' 'compliance' 'regulatory' 'exchanges'
- 'confidentiality' 'oversight' 'fdic' 'clauses']","['never saw that note at the end of it but it is correct you know if you are one since you would be a fully registered business with the cftc that is executing orders on behalf of clients i would say go ask your compliance team if you are an fcm if you don t have a compliance team then you are safe to assume you aren t an fcm'
- 'i don t i assume there are some sweeteners in there since their sig s obligations on spreads can be pretty onerous at least i would think so if i were in their shoes i don t really know what girm those sweeteners if they exist may take i don t think it would be anything that a normal person would consider unreasonable after all the cftc is informed of these arrangements it s not like some other exchanges that can make backroom deals with third parties with zero oversight'
- 'also i understand your concern vis a vis synapse but understand that this is a very different setup the issue with synapse is that both synapse and their fintech partners were operating essentially outside of regulatory oversight actually with regulatory pushback since they could not effectively enforce controls when it all blew up the regulators just walked away since it had all been a shadow banking pyramid they were opposed to from the get go in my view abdicating their responsibility but i can see their pov klear on the other hand is a fully regulated dco with proper oversight by the cftc to make sure funds are segregated and secure it has explicitly been endorsed by the regulatory authorities and they ensure that klear acts in accordance with our interests in this regard it is easy to conflate the cowboy fintechs operating in the shadow with ones that are held to scrutiny under the light of proper regulation but there is a world of difference']",False,False,False,Regulatory Compliance
-53,13,53_refunding_refunded_mavericks_refunds,"['refunding' 'refunded' 'mavericks' 'refunds' 'mavs' 'malfunctioning'
- 'losses' 'wagers' 'maverick' 'updates']","['will issue refunds for limit orders that didn t clear when the mavs vs jazz market got unstuck patience is appreciated'
- 'any update on the refunds for the mavericks vs jazz games last night where the market was frozen'
- 'hi due to your technical issues we incurred losses from our investment in the mavs game over a week ago you admitted it was caused by technical reasons and promised a refund but now more than a week has passed with no resolution moreover you ve even stopped responding to this issue this is very confusing polymarket polymarket']",True,True,False,Refund Delays Mavericks Game
-60,12,60_voting_mickey_vote_votes,"['voting' 'mickey' 'vote' 'votes' 'again' 'yes' 'sure' 'candidates'
- 'neither' 'mouse']","['again i don t agree there was valid discussion on whether mickey mouse votes for no true candidate should count as an example voting for none of these in nevada'
- 'the issue is that it says third party candidates a random write in like for example mickey mouse isnt a candidate'
- 'invalid write ins could literally be anything i don t see why a mickey mouse vote is superior to none of these candidates neither are votes for a candidate']",False,False,True,invalid votes
-142,6,142_explained_admins_means_mean,"['explained' 'admins' 'means' 'mean' 'clarification' 'literally' 'sure'
- 'saying' 'lol' 'agree']","['the admins aren t dumb they will infer the obvious lol'
- 'agree we should have the admins carefully consider the arguments'
- 'what i mean is that nobody submitted any arguments people just kept making noise and tagging admins and admins swooped in skimmed a few posts hopefully and gave a vague go away non clarification we have no idea what arguments they read']",False,False,True,Admin Clarification Needed
-146,6,146_somebody_gives_sure_gotta,"['somebody' 'gives' 'sure' 'gotta' 'donating' 'helpful' 'sourcing' 'dudes'
- 'him' 'hopefully']","['haha i think the most important is to have someone who really cares tbh'
- 'he want s the perfect scenario that helps him obv'
- 'gotta be one of the most helpful dudes in here man somebody hire this man']",False,False,False,Helpful community member
-147,6,147_error_assume_sure_handling,"['error' 'assume' 'sure' 'handling' 'precedent' 'us' 'my' 'll' 'reading'
- 'theres']","['i been trying to diagnose that so maybe i ll improve my error handling'
- 'fleming if you check the history the error is quite common'
- 'i was reading this but not sure if it s the best reference theres an error table when you scroll down a little']",True,True,False,Error Handling Issues
-134,6,134_vocabulary_synonyms_terminology_using,"['vocabulary' 'synonyms' 'terminology' 'using' 'typically' 'used' 'words'
- 'sure' 'said' 'than']","['never mind that those two words are synonyms'
- 'if i google around the word used are always typically eg'
- 'one last thing i will say on this topic though is that you really should consider using a different word than most if you want to be exclusionary it just isn t how english speakers use that word the average person will have the term tied for most in their vocabulary']",False,False,True,Word Choice and Usage
-133,6,133_cbb_cfb_college_football,"['cbb' 'cfb' 'college' 'football' 'basketball' 'cbk' 'page' 'iowa' 'link'
- 'teams']","['also possibly a market on cfb cbb transfer portal entrances exits'
- 'why is today s only college football game not listed under cfb'
- 'i think something is funky with the college football markets ui where it is showing college basketball data for each teams record might make it confusing for people to know if they re betting on cfb or cbk']",True,True,False,College Sports Betting UI
-64,11,64_lawsuits_lawsuit_sued_sue,"['lawsuits' 'lawsuit' 'sued' 'sue' 'lawyer' 'manipulation' 'using'
- 'another' 'society' 'lose']","['bc taylor swift sued those people that made merch using her name and stuff im kinda confused as to how this works however'
- 'im not doing the whole lawsuit nonsense lol but if some did so alot the whales would be prime targets for market manipulation arguments someone should sue them just to fuck with the whales lol would be fun to watch'
- 'i will also contact my lawyer in canada to see if there are similar laws on the books and if so you will recive another class action here and it may very well spread to every country that has these types of laws on the books']",False,False,True,Legal Issues
-126,7,126_polymarket_platforms_hardened_examples,"['polymarket' 'platforms' 'hardened' 'examples' 'tested' 'proven' 'draw'
- 'templates' 'way' 'other']","['there are zillions of battle hardened templates to draw from'
- 'but templates are the only way to get to rules that are battle hardened'
- 'and there are battle hardened templates on polymarket the mention markets and the isw capture markets are great examples']",False,False,False,battle-hardened templates
-4,44,4_tweeted_retweeting_tweeting_xtracker,"['tweeted' 'retweeting' 'tweeting' 'xtracker' 'trackers' 'reposts' 'twets'
- 'reposting' 'elon' 'musks']","['hey guys i am not sure where to bring this up but the tracker for elon musks tweets seems to not work anymore it shows for hours now even though he posted some times since then can someone help me with that'
- 'can confirm the xtracker is now working elon tweets are up and that trump tweets market will be up soon'
- 'dear polymarket team i hope this message finds you well i am a participant in the elon musk of tweets nov dec market on your platform during my participation i have noticed issues with missing counts in xtracker data and ambiguities in the rule descriptions these issues have already sparked widespread discussions among users about the fairness of the market to ensure the transparency and integrity of the market i am submitting this feedback and requesting an update on the missing counts issues with missing counts in xtracker based on xtracker s current data it appears that some posts have not been recorded which could directly affect the outcome of the market specifically missing counts approximately posts seem to be missing most of which occurred yesterday afternoon and evening examples of missing tweets these tweets appear to meet the market rules main feed posts quote posts reposts etc but have not been included in the count this discrepancy has already led to significant discussions among users with some raising concerns about the fairness of the market i urge you to investigate the issue and update the missing counts as soon as possible questions about rule descriptions the market rules state if the tracker does not update correctly in accordance with the rules x itself may be used as a secondary resolution source however this raises the following questions unclear conditions under what circumstances will x be used as a secondary resolution source']",True,True,False,Elon Musk Tweet Tracker
-25,19,25_deflated_deflating_balloon_baloons,"['deflated' 'deflating' 'balloon' 'baloons' 'deflates' 'balloons'
- 'deflation' 'inflated' 'deflate' 'deformity']","['it s a slippery slope we need to hold these events to the highest standards gabby s deflated hand wasn t just a little problem it was a symbol of what happens when we let things go unchecked believe me folks it s time to call it what it is deflation plain and simple let s make the parade great again'
- 'it s all about standards people and we re not going to lower them not on my watch now i ve seen these parades the macy s thanksgiving day parade it s iconic truly incredible but it s supposed to be perfect perfect balloons perfect floats gabby s hand hanging there deflated is not perfect it s embarrassing everyone saw it they couldn t stop talking about it and when people notice when they re pointing it out on social media when kids are asking what happened to gabby s hand that s significant folks that s very significant you can t just sweep that under the rug the media of course is trying to spin it oh it s just a small thing not a big deal fake news folks totally fake if you let this slide what s next'
- 'a deflated hand on a balloon can serve as a powerful symbol of resilience and the beauty of imperfection rather than viewing deformity and disability as negative attributes this imagery invites us to celebrate the unique stories and experiences that come with them just as a deflated balloon retains its vibrant colors and playful spirit individuals with disabilities often embody strength creativity and adaptability in the face of challenges this perspective encourages a shift in societal attitudes promoting inclusivity and appreciation for diversity by embracing the deflated hand as a positive representation we can foster a deeper understanding of the richness that comes from our differences ultimately enriching the tapestry of human experience']",True,True,False,Balloon Deflation Incident
-78,10,78_misinformation_misleading_untrue_fake,"['misinformation' 'misleading' 'untrue' 'fake' 'false' 'journalist'
- 'clarification' 'removed' 'credible' 'fact']","['very misleading title on the fact check caused by lithium battery'
- 'in the comments they re quoting things that are untrue it felt like they were shifting the narrative'
- 'i had seen that article the journalist was probably tripping when he was writting it its false information']",False,False,False,False Information
-72,11,72_outcome_final_finally_happens,"['outcome' 'final' 'finally' 'happens' 'result' 'mean' 'yes' 'after'
- 'above' 'end']","['if by outcome you mean this then yes it is the final result'
- 'final review for should be over what s the result'
- 'when the word outcome comes out is it the final result of polymart']",False,True,False,Final Outcome
-5,42,5_tanner_candiey_tannner_unless,"['tanner' 'candiey' 'tannner' 'unless' 'sent' 'username' 'messaged'
- 'imposters' 'sure' 'pretending']","['tanner polymarket or candiey will contact you and they will help you recover your funds'
- 'wait for candiey and tanner to contact you here pls'
- 'tanner or candiey will contact you and help you']",True,False,True,imposter scam
-160,5,160_nobody_understands_mean_realize,"['nobody' 'understands' 'mean' 'realize' 'why' 'their' 'isn' 'uma'
- 'understand' 'like']","['they don t realize also that the uma is not the resolver'
- 'but seems like there s plenty of insane people here to keep the party going'
- 'uma isn t exactly known for their brilliance']",False,False,True,Lack of Understanding
-145,6,145_funds_able_appreciate_again,"['funds' 'able' 'appreciate' 'again' 'patience' 'us' 'lose' 'successfully'
- 'access' 'glad']","['trust me when i say it is as important to us as it is to you to get you access back to your funds'
- 'we re also happy we were able to successfully give you access back to your funds it s as important to us as it is to you'
- 'we appreciate your patience it is as important to us as it is to you to give you access back to your funds']",True,True,False,Funds Access Issue
-136,6,136_arguing_believe_unwilling_say,"['arguing' 'believe' 'unwilling' 'say' 'said' 'accuse' 'than' 'accept'
- 'impossible' 'basically']","['why is it impossible for you to accept that you might be wrong here as much as the other side'
- 'right so you basically just said the entire point i made which is that you thought you had the perfect scam'
- 'it s funny that you accuse me of thinking i m always right when that s not true what s happening here is that you re unwilling to believe you re actually wrong']",False,False,False,Disagreement and Argument
-30,17,30_captions_transcript_livestreamed_uploaded,"['captions' 'transcript' 'livestreamed' 'uploaded' 'youtube' 'scrolled'
- 'my' 'page' 'literally' 'than']","['literally just use a youtube to transcript generator from this video'
- 'go to this video go to put english captions on then tell me my transcript was wrong'
- 'go to this video go to put english captions on desktop version of youtube unless you understand arabic']",True,True,False,YouTube Captioning Issues
-18,21,18_dispute_disputers_proposers_disputes,"['dispute' 'disputers' 'proposers' 'disputes' 'disputed' 'resolves'
- 'loses' 'proposed' 'proposing' 'proposal']","['if disputed it goes through uma voting which usually lasts around to hours and if verifiers see that it was too early you ll most likely lose your bond if you end up losing the bond the disputer gets and uma'
- 'hey all here s my situation i proposed a resolution and posted a bond a while back the resolution got challenged and then someone else reposted the bond the bet resolved on my side my initial proposed resolution was correct but i can t figure out how to get my bond back can someone walk me through the steps to retrieve my bond i understand i don t get the bounty i just want my bond'
- 'and if there is a dispute because a submission is proposed too early does the disputer automatically win the entire bond of the initial proposer if it is declared that it was submitted too early']",True,True,False,Dispute Resolution
-107,8,107_casefire_lol_deny_yeah,"['casefire' 'lol' 'deny' 'yeah' 'maybe' 'why' 'no' 'stalemate' 'man'
- 'gonna']","['i don t care man there was no casefire can t deny lol'
- 'lol i just gonna hold to you are there was no casefire'
- 'there was no casefire there still fighting lol i don t get why everybody is confused lol']",False,False,True,Discord disagreement
-73,11,73_dapps_platforms_decentralized_defi,"['dapps' 'platforms' 'decentralized' 'defi' 'dapp' 'nft' 'blockchain'
- 'taptoearn' 'staking' 'collaborating']","['hi everyone i hope you are doing well my name is kaori fujio from japan as a rich experienced blockchain web and full stack developer i am now looking for a new remote position i am very familiar with blockchain dapps web nft market place smart contract trading bot telegram mini app front end and back end development ai chatbot development and etc so i would like to work with you or your team for a long time if it is possible please feel free to kindly dm me if you have a project or can help me thank you'
- 'hi team i am a full stack and blockchain developer with over years of experience in designing developing and deploying dapps smart contracts and defi protocols my expertise encompasses both front end and back end technologies allowing me to build seamless user experiences while ensuring robust server side logic i have hands on experience with major blockchain platforms including solana and ethereum on ethereum i have developed complex smart contracts using solidity optimizing for gas efficiency and security i have successfully deployed several dapps that facilitate token swaps yield farming and liquidity provision contributing to real world projects that enhance user engagement and streamline financial processes in addition to my blockchain proficiency i am well versed in modern web technologies such as react node js and express enabling me to create responsive and interactive interfaces my experience includes working with various databases including mongodb and postgresql ensuring data integrity and efficient retrieval as a full stack and blockchain developer at inch io i have contributed to the development of the platform s front end using next js and typescript ensuring a user friendly interface on the back end i have implemented server side logic with node js and go to handle high transaction volumes efficiently additionally i have developed and audited smart contracts in solidity which are integral to our protocols like the inch aggregation protocol and limit order protocol facilitating secure and efficient token swaps across multiple decentralized exchanges dexs currently i am seeking new opportunities in web and blockchain development where i can leverage my skills to contribute to innovative projects and help drive the future of decentralized technology please let me know if i can work with you'
- 'i have honed my skills in blockchain technology smart contract development and decentralized application dapp architecture i have a proven track record of successfully delivering projects in the web space ranging from building dapps for decentralized finance defi platforms to implementing secure smart contracts for various use cases one of my recent projects involved developing a decentralized voting application on ethereum which required implementing smart contracts for transparent and tamper resistant voting processes this experience not only strengthened my proficiency in solidity programming but also deepened my understanding of blockchain governance mechanisms and decentralized consensus algorithms in addition to my technical skills i am adept at collaborating with cross functional teams communicating complex technical concepts to non technical stakeholders and adapting to the rapidly evolving landscape of web technologies i thrive in dynamic environments where innovation is encouraged and i am eager to contribute my expertise to jup mission i am particularly drawn to jup because of its reputation for mention specific aspect of the company that interests you such as its commitment to decentralization innovative projects etc i am impressed by the work your team has done in mention specific project or initiative if applicable and i am eager to be part of such a forward thinking organization i am excited about the opportunity to discuss how my skills and experience align with the needs of jup thank you for considering my application i look forward to the possibility of contributing to your team and helping jup continue to innovate in the web space']",False,False,False,blockchain developers
-19,21,19_liverpool_everton_happening_buy,"['liverpool' 'everton' 'happening' 'buy' 'manchester' 'situation'
- 'finished' 'fyi' 'inconsistent' 'happened']","['u can buy no for everton and convert to yes in draw and liverpool'
- 'so the liverpool everton match literally can t resolve'
- 'any updates on the everton vs liverpool market']",False,False,True,Football Discussion
-152,6,152_winning_dispute_litigated_disputes,"['winning' 'dispute' 'litigated' 'disputes' 'argued' 'lose' 'litigatgion'
- 'ongoing' 'against' 'vote']","['the bet after yours was resolved yours went into a vote'
- 'i just trusted the platform to let users know the bet that had enough evidence to resolve on was still ongoing on the th'
- 'i have litigated many cases i don t always win but i am true to my wor d in litigatgion']",True,True,False,Dispute Resolution
-42,14,42_mistake_apologized_apologies_remembered,"['mistake' 'apologized' 'apologies' 'remembered' 'realized' 'sorry' 'sure'
- 'above' 'retracted' 'without']","['yeah i just realized i wasn t checking the cursor properly it s only a little over events'
- 'i ve seen him before and tbh when i started here i was much more lenient towards him now i have patience'
- 'coby have you ever made a mistake and learned you lesson']",False,False,False,Mistakes and Apologies
-55,12,55_comprehension_illiterate_comprehend_reading,"['comprehension' 'illiterate' 'comprehend' 'reading' 'understanding'
- 'understand' 'explain' 'lacking' 'unable' 'incapable']","['in case you have bad reading comprehension the ll explain'
- 'reading comprehension must not be your strong suit'
- 'i found it easy to comprehend if you didn t sounds like a reading comprehension issue on your end']",True,True,False,Reading Comprehension Issues
-170,5,170_weekends_weekend_monday_unlikely,"['weekends' 'weekend' 'monday' 'unlikely' 'closed' 'its' 'when' 'unsure'
- 'up' 'late']","['as the weekend is hours and they take off weekends'
- 'i m unsure it s the weekend and late at night so unlikely'
- 'i think its rare for anything to show up on the weekend i d check on monday']",False,False,True,Weekend Availability
-2,59,2_arraignment_arraigned_plea_pleads,"['arraignment' 'arraigned' 'plea' 'pleads' 'pleading' 'pleaing' 'indicted'
- 'plead' 'arraignments' 'guilty']","['requesting a clarification for the luigi mangione plead guilty market i think its too early because he hasnt entered a plea for his federal charges yet only state they are different charges and he could plea guilty for those the market should probably stay open but the other side argues based on his first pleas at the arraignment means its only about the first arraignment'
- 'hi i am the one that disputed this i went to the uma discord and they told me that because of the price of the market and the ogs who have put money into no there is a high chance that this gets pushed to resolution on uma they recommended i come here to get a clarification from pm regarding this it s obviously clear by the way the rules are written that this is meant to be a bet on if luigi s first plea for any of his charges are guilty people are attempting to resolve it based on his pleas for the ny state charges without even letting the pleas for the federal charges happen the argument they are trying to make is that it has already been the first arraignment however the rules do not say only the first arraignment counts the rules say first pleas for the arraignment first pleas always happen during the arraignment but the federal arraignment hasn t even happened yet how can we resolve this market when literally half the charges haven t had a plea yet'
- 'people are interpreting first plea for each charge as first arraignment it doesn t seem to make any sense when the sentence in the rules clearly is referring to the fact that changing pleas subsequent to the plea given at the arraignment for the charges don t count literally none of the federal charges have had a plea yet i don t understand why people are so ready to claim that it s done and luigi won t plea guilty on any charges based on whether there s an s at the end of arraignment or not the market is about all the charges he s indicted on not just the state ones and there s literally charges without a plea right now']",True,True,False,Legal Market Dispute
-16,23,16_magnus_carlsen_holders_shareholders,"['magnus' 'carlsen' 'holders' 'shareholders' 'whatever' 'winners' 'ian'
- 'coinflip' 'screwed' 'lose']","['because this has never happened the magnus and nepo holders lose when they are both winners and polymarket allows them to get rugged'
- 'magnus carlson is spelled wrong it is magnus carlsen'
- 'doesn t rlly matter because you also get shares in all future brackets when you buy other so even if they made a new bracket for magnus ian then magnus y and nepo y still lose and owners of other y still win']",False,False,True,Magnus Carlsen Discussion
-93,9,93_gizmo_manipulate_monopoly_used,"['gizmo' 'manipulate' 'monopoly' 'used' 'shit' 'damage' 'claims' 'amnesty'
- 'fuding' 'except']","['my only point is that gizmo is a piece of shit who does a lot of damage not just to polymarket but also to the people he claims hes trying to help'
- 'im surprised gizmo isnt here arguing that this ruleset violates human rights or some shit'
- 'gizmo fuding this market for weeks poly agrees with him still spamming negative bullshit stay frosty gizmo']",False,False,True,Gizmo Criticism
-54,12,54_using_arbiter_consistency_drowndrawn,"['using' 'arbiter' 'consistency' 'drowndrawn' 'said' 'mean'
- 'predictability' 'oracle' 'knows' 'resolving']","['consistency and predictability are the most important qualities for an oracle'
- 'the th oracle wasn t going the way u guys hoped it would so u literally had to bend the rules'
- 'drowndrawn should have a context added to him detailing his crimes so that the uma oracle knows to vote him into jail for life']",True,True,False,Oracle Consistency
-47,13,47_withdrawls_withdrawl_withdrawal_withdrawn,"['withdrawls' 'withdrawl' 'withdrawal' 'withdrawn' 'deposits' 'deposited'
- 'deposit' 'funds' 'withdraw' 'robinhood']","['and how can someone want to deposit with crypto and not expect it to withdrawal with the same method'
- 'hey i m not sure if this has been clarified elsewhere but what is the withdrawal lockup for crypto deposits'
- 'robinhood and virtually any platform online allows nearly instant deposit withdrawls alot of people i feel are being misled with the deposit with crypto wait and then pray you can withdraw']",True,True,False,Cryptocurrency Withdrawal Issues
-109,8,109_profitable_startup_profit_capital,"['profitable' 'startup' 'profit' 'capital' 'investment' 'operational'
- 'costs' 'growth' 'spend' 'money']","['all current operational costs come from investment at the moment the idea is to grow'
- 'at the moment polymarket doesn t make any money the vision is to grow all current operational costs come from investment'
- 'right now all the money we spend on operational costs come from investment the vision is to grow']",False,False,False,Startup Financial Planning
-74,10,74_aenews_emans_liars_manipulating,"['aenews' 'emans' 'liars' 'manipulating' 'leveraging' 'insider' 'abusing'
- 'noobs' 'trenches' 'vote']","['aenews advise others not to bet but he is a no whale and he is also a verilier in uma discord opps'
- 'aenews is the top no holder he do a lot trade in the market with a same avatar and id and he is a verifier in the uma vote discord we should all believe his word'
- 'aenews isn t manipulating the outcome but he is one of the more skilled at leveraging tribal knowledge to siphon from noobs']",True,True,False,Discord User Manipulation
-70,11,70_sunmachine_unless_sun_retard,"['sunmachine' 'unless' 'sun' 'retard' 'yeah' 'its' 'than' 'shutdown' 'say'
- 'man']","['sunmachine was fighting the good fight in syria market now he s acting brain dead'
- 'sun machine has mental illness i would not recommend wasting your time unless super bored'
- 'sunmachine youve been tapping away in this channel and umacord for the whole damn day']",False,False,True,Sunmachine Discussion
-29,17,29_smartcontract_blockchain_able_technicalities,"['smartcontract' 'blockchain' 'able' 'technicalities' 'interacting' 'gm'
- 'using' 'contract' 'contracts' 'solidity']","['so you expect everyone to go through the technicalities of the smart contracts that prevent on neg risks'
- 'gm i have a question about the the user wallets am i able to open and close market positions with own my wallet using smart contracts or calling functions'
- 'you can t do it via the api but can look at the smart contract code and try to adapt one of the scripts in']",True,True,False,Smart Contract Integration
-98,8,98_sourced_wiki_wikis_constructive,"['sourced' 'wiki' 'wikis' 'constructive' 'workflow' 'generating' 'crowd'
- 'ettiquette' 'problems' 'templates']","['have you considered maybe they just don t agree with you that a crowd sourced wiki is the solution'
- 'how would you prevent bad actors in the crowd sourced wiki'
- 'a crowd sourced wiki for generating templates for rules would be very non scamming']",True,True,False,Crowd Sourced Wiki
-168,5,168_other_than_my_entries,"['other' 'than' 'my' 'entries' 'here' 'find' 'cited' 'go' 'maps'
- 'encyclopedia']","['there is new news here and my friend as well cited it why don t you go and find out since you pay so much attention to uma'
- 'i ve linked encyclopedia entries and msm articles'
- 'other than twitter videos google earth images maps or news articles stating incursion']",False,False,True,irrelevant chat
-171,5,171_fuck_thanks_my_loser,"['fuck' 'thanks' 'my' 'loser' 'melania' 'hawk' 'fucking' 'than' 'maybe'
- 'stupid']","['i lost eu but thats ok for being stupid thx a lot'
- 'holy fucking fuck i feel bad for you oh my god'
- 'maybe you just gotta give em that hawk tuah']",False,False,True,negative emotions
-143,6,143_doable_difficult_pretend_unless,"['doable' 'difficult' 'pretend' 'unless' 'harder' 'yes' 'done' 'say'
- 'said' 'understandably']","['thats your theory in pratical it links to a totally different account'
- 'i could easily see it being difficult also unless you re doing the work you re typically not in a good position to estimate how hard it will be'
- 'it is doable i know someone who does it but understandably but annnoyingly won t share']",True,True,False,Task Difficulty
-106,8,106_accrual_prorated_accrued_amount,"['accrual' 'prorated' 'accrued' 'amount' 'salaried' 'earning' 'completed'
- 'month' 'payment' 'paid']","['i got one on nov for oct accrual but haven t received interest for nov yet'
- 'hi do you know if december interest will be reported on or it was paid on jan and it s counted in my total but it should be for so that s why i m wondering'
- 'i don t think that s how it works i think the december interest paid in january should count toward income like at my salaried job i m getting paid on january for my work completed in the second half of december and that goes toward taxes not it goes by when the payment occurred']",True,True,False,Payroll and Interest Accrual
-153,6,153_webpage_page_isnt_us,"['webpage' 'page' 'isnt' 'us' 'its' 'print' 'their' 'appear' 'website'
- 'odd']","['it doesn t have to be that specific webpage linked in the rules but it does have to be on the website at am'
- 'it would be odd if it was in print but not on their website anywhere'
- 'it s the no us paper by subscribers no in print circulation']",True,True,False,Website accessibility
-76,10,76_my_say_see_its,['my' 'say' 'see' 'its' 'says' 'ask' 'why' 'asking' 'australia' 'atleast'],"['can you please go to and check what region it says you re in'
- 'i see people say it s at but in my country in vietnam it s so what should i check'
- 'i m going to australia haha i can see why it would be an issue in nk']",True,True,False,Geolocation Issues
-44,14,44_funding_unfunded_enough_gap,"['funding' 'unfunded' 'enough' 'gap' 'valid' 'actual' 'approved' 'covered'
- 'secured' 'already']","['there isn t even a technically shutdown because the funding rolls daily as long as it is approved within that day it s valid funding for the whole day'
- 'funding is daily as long as it happens within the same day the funding for day is secured'
- 'there is no gap because the funding is considered daily if funding is provided by singing it into law today funding for the whole day is secured']",False,False,False,Daily Funding
-69,11,69_ive_way_trying_own,"['ive' 'way' 'trying' 'own' 'understand' 'sure' 'theres' 'mate' 'page'
- 'my']","['theres not any money on it at the moment im just trying to figure out how it works'
- 'ah alright thanks mate just trying to figure out how it all works before i do anything cheers'
- 'ive been here a month mostly just looking for like a page pdf on how it works or something wasnt here for lebanon']",True,True,False,Understanding Product Functionality
-21,20,21_closure_banning_pending_closed,"['closure' 'banning' 'pending' 'closed' 'popup' 'able' 'using' 'ops'
- 'users' 'placed']","['no but you can get your account placed into close only mode'
- 'your account has been placed into close only mode due to a potential violation of our terms of service you may close out of your existing positions but not enter into new ones reach out to ops com for more information including if you think you are receiving this message in error show this message i want to ask what happened'
- 'they put his main account on close only mode to pretend they re keeping us users out while basically telling them through the grapevine to just evade with a new account']",True,True,False,Account Closure
-48,13,48_moonpay_uniswap_kyc_defi,"['moonpay' 'uniswap' 'kyc' 'defi' 'withdrawal' 'hoc' 'employee' 'ops'
- 'using' 'accounts']","['this is a very reasonable holding period on kyc aml cftc compliant company i understand you think that way but your bank account has piid and crypto does not'
- 'i don t know their kyc policy since i m not an employee of polymarket what i know is that they actively kyc some accounts and if the account doesn t comply they will put their account into close only mode imagine uniswap doing that'
- 'the only kyc flow on polymarket is done ad hoc by ops right now aside from moonpay s kyc for their onramping done for compliance purposes']",False,False,False,KYC and Compliance
-68,11,68_chess_rapidchess_championship_blitz,"['chess' 'rapidchess' 'championship' 'blitz' 'champions' 'champion'
- 'tournament' 'carlsen' 'updates' 'rewards']","['may i also add all taking a look at all tix related to the blitz chess championship too we do need updates'
- 'guys both the blitz and the rapid world chess championship market definitely need the other option i d say asap polymarket polymarket there s players leading the rapid right now that are not there as options to bet for'
- 'i think we need rewards in the rapid world chess championship we have rewards for the blitz one happening on the th but not for the rapid one starting tomorrow rapid is by no means less important than blitz or less interesting so should fix the consistency there polymarket']",True,True,False,Chess Championship Betting
-149,6,149_figured_guessing_hypothesis_seems,"['figured' 'guessing' 'hypothesis' 'seems' 'gotcha' 'my' 'thinking'
- 'expected' 'yeah' 'seeing']","['gotcha makes sense figured that might be it'
- 'ladies and gentlemen boys and girls i figured it out'
- 'just connecting the dots we all see my hypothesis is probably the most accurate']",False,False,True,Problem Solving
-8,33,8_unavailable_banned_trading_territories,"['unavailable' 'banned' 'trading' 'territories' 'territory' 'companies'
- 'located' 'locations' 'besides' 'globally']","['trading in restricted countries or regions is not allowed rest are okay if you re traveling'
- 'im getting this error trading is not available to people or companies who are residents of or are located incorporated or have a registered agent in the united states or a restricted territory see our terms of use'
- 'the company does not offer trading services to us persons or persons located in the us as well as other restricted territories although data and information is viewable globally']",True,False,False,Trading Restrictions
-49,13,49_clicking_button_click_navbar,"['clicking' 'button' 'click' 'navbar' 'activate' 'link' 'screenshot'
- 'using' 'used' 'youre']","['clicking on that specific blue button and not the navbar should fix your issue'
- 'click on the blue button shown not the navbar from your screenshot'
- 'dont click on the navbar you ve shown in your screenshot but the blue button instead']",True,True,False,Button Clicking Issue
-6,36,6_activating_funds_activate_deposited,"['activating' 'funds' 'activate' 'deposited' 'deposits' 'pending'
- 'deposit' 'activated' 'relogin' 'activation']","['you have them in your wallet they just need fund activation can you please go to and click on the blue button to activate your funds'
- 'hello if you re having issues activating funds please go to and click on the blue button to activate your funds'
- 'hey here are a few things you can try to fix fund activation press shift f log out then relogin go to and try to activate funds again if that doesn t work please check if your system time is in sync with your network time search date time in windows and then click on the sync now button then try again']",True,True,False,Fund Activation Issues
-50,13,50_swapping_swap_metamask_swwap,"['swapping' 'swap' 'metamask' 'swwap' 'dollar' 'sent' 'address'
- 'conversion' 'nah' 'asking']","['ill send you pol to swap just use that swap to get a bit of pol'
- 'but you will need a bit of pol to do that you can dm or put your metamask address here and i ll send you enough pol for a swap'
- 'hey no worries i will send pol which should be enough to swap multiple times over after that just buy yourself a dollar of pol for all future transactions']",False,False,False,Cryptocurrency Swap
-46,13,46_seedphrase_keys_unless_without,"['seedphrase' 'keys' 'unless' 'without' 'recovery' 'able' 'sure' 'secret'
- 'steal' 'never']","['btw pro tip we will not and no one legit will ever ask for your secret phrase or private keys'
- 'regardless you should never be giving your private key or secret phrase to anyone even genuine support'
- 'note do not send your secret phrase to anyone under any circumstances']",True,False,False,Security Concerns
-90,9,90_ontario_quebec_assume_vpn,"['ontario' 'quebec' 'assume' 'vpn' 'geoblocking' 'username' 'modem' 'isp'
- 'internet' 'manitoba']","['phone data matches quebec correctly but my home internet does not so i m fine i ll just use my cell data for trades thanks'
- 'turns out it s only my home internet where the ip is associated with ontario my phone data is quebec which is why of the time i haven t had issues i guess thanks for clarifying'
- 'ok good to know as you might have guessed from my username i m in quebec not sure why my ip is associated with ontario like i said most of the time i have no issue maybe it s because i m on my phone data instead of home wifi']",True,False,False,IP Address Location Issue
-167,5,167_vpns_vpn_able_servers,"['vpns' 'vpn' 'able' 'servers' 'users' 'anonymization' 'restrictions'
- 'other' 'privacy' 'circumvent']","['i wouldn t do it via russia or ukrainian servers lol'
- 'do not encourage users to use vpn to circumvent restricted regions'
- 'see in the tos you do not and will not use vpn software or any other privacy or anonymization tools or techniques to circumvent or attempt to circumvent any restrictions that apply to the services']",False,False,False,VPN Usage Restrictions
-13,28,13_txhash_hashing_hash_tx,"['txhash' 'hashing' 'hash' 'tx' 'get' 'yes' 'send' 'requests' 'my'
- 'please']","['hello please send the txhash and ill have a look'
- 'hey no worries can you please send me the txhash and ill have a look'
- 'hello do you have the txhash please so we can look into this']",True,False,False,Transaction Hash Request
-11,28,11_merging_merge_converting_convertnotoken,"['merging' 'merge' 'converting' 'convertnotoken' 'splitting' 'able'
- 'revert' 'becomes' 'reverted' 'split']","['i have merge and split working i have not gotten converting to work'
- 'hello could someone explain to me how to do merge with api i did try ctf merge as explained here but i keep getting some errors i am using a proxy is it even possible to do this when using proxy wallet but signing merge with my walle key'
- 'yeah i also spent time thinking about how to split merge convertnotoken but it doesnt help bc the position stays equivalent in the end']",True,True,False,Merge/Split API Issues
-81,10,81_splitting_splits_usdc_merge,"['splitting' 'splits' 'usdc' 'merge' 'shares' 'using' 'split' 'convert'
- 'brackets' 'merged']","['you can split usdc into yes and no shares in new or old markets then you can sell them at any desired price'
- 'it s just a feature that allows you to split usdc into no and yes so you can sell them at any desired price'
- 'split splits usdc into yes and no merge if you have yes shares and no shares of the same value you can merge them into usdc convert you can convert no shares into yes on other brackets in neg risk markets that have other']",False,True,False,USDC Splitting
-23,20,23_updatebalanceallowance_allowances_allowance_allow,"['updatebalanceallowance' 'allowances' 'allowance' 'allow' 'undo'
- 'permission' 'giving' 'bid' 'issue' 'submitting']","['thank you imho the documentation is lacking in this regard also a little bit cryptic to call this allowance but thanks for pointing me in this direction'
- 'paying usdc if someone can walk me through the python code that will allow me to place a bid ask having troubles with setting allowance and placing the bid ask'
- 'hello i call the function of get balance allowance got balance and also can see i have set the usdc allowance i am confused that i have usdc in my account but why got balance from the return value of function get balance allowance']",True,True,False,Allowance Issues
-32,17,32_fees_withdrawing_withdrawal_referral,"['fees' 'withdrawing' 'withdrawal' 'referral' 'depositing' 'fee' 'trading'
- 'deposit' 'comission' 'transactions']","['there s currently no fees on depositing trading redeeming or withdrawing in polymarket'
- 'yes polymarket currently no fees for trading redeeming withdrawing'
- 'we currently have no fees no fees for trading no fees for withdrawing or redeeming']",False,True,False,Transaction Fees
-138,6,138_issue_restarting_able_logs,"['issue' 'restarting' 'able' 'logs' 'happened' 'screenshots' 'ticket'
- 'support' 'happens' 'solved']","['open a ticket please so the team can check logs to see what happened'
- 'okay can you please open a ticket with the info you provided here and our team will be able to check logs to see what happened'
- 'we don t provide extra support depending on volume but equal to all if this happens again feel free to open a ticket and we can check internally if this is an issue from our side or yours but in general since restarting your network solved the issue at least we have a slight clue']",True,True,False,Technical Issue
-128,7,128_delayed_arrived_sent_hasnt,"['delayed' 'arrived' 'sent' 'hasnt' 'havent' 'delay' 'received' 'again'
- 'done' 'update']","['hey i can confirm that i sent it in it s most likely a bit delayed due to the weekend if you still don t get it by monday i will escalate again it should come by sunday though'
- 'hey jj m i sent your case but havent received an update yet most likely delay due to weekend i apologize and will see what can be done about it rest assured your funds are safe'
- 'sometimes its a bit delayed please wait mins and let me know if you still haven t received it and i ll escalate']",True,True,False,Shipping Delays
-80,10,80_clicked_everytime_button_able,"['clicked' 'everytime' 'button' 'able' 'didnt' 'activate' 'nothing'
- 'allow' 'spins' 'click']","['no nada does not work also when i press on like love button of the comment of other user does not count my like'
- 'that did not work for me i press activate the bar spins and then nothing happesn'
- 'it won t allow me to press this nothing happens but up at the top next to cash it has a small blue arrow like that but then it won t confirm']",True,True,False,Button not working
-41,14,41_uses_banned_usa_us,['uses' 'banned' 'usa' 'us' 'used' 'using' 'users' 'again' 'utc' 'sure'],"['hmm i just common user of your platform the platform asked me or im citizen of usa or france i answered no i m the citizen of ukraine do you need more proof'
- 'this and make crypto markets utc why is a platform banned to american users using american time zones when utc works best for the majority of the world'
- 'officially yes but they are obviously targeting american people it s a us platform for american people they also write all their rules using the american east coast time zone instead of utc']",True,True,False,US User Ban
-22,20,22_moonpay_paypal_pending_transaction,"['moonpay' 'paypal' 'pending' 'transaction' 'payment' 'wallet' 'debit'
- 'transactions' 'deposits' 'verification']","['unfortunately there s nothing we can do to speed up the transaction in moonpay only their support can check why it s still pending'
- 'can you go to moonpay history and check for a transaction hash so i can have a look'
- 'yes through moonpay i filled in my creditcard info and it went through on moonpay website i can see the payment and the transaction under external wallet']",True,True,False,Moonpay Transaction Issues
-71,11,71_withdrawing_deposit_transaction_bank,"['withdrawing' 'deposit' 'transaction' 'bank' 'withdraw' 'checking'
- 'dispute' 'account' 'purchase' 'able']","['to withdraw to a different bank account than the bank account used to deposit'
- 'if you deposit with a different bank account than the one you are withdrawing to'
- 'bad situation could it work to dispute the whole purchase w the bank as the transaction is still reserved']",True,True,False,Bank Transaction Issues
-31,17,31_polyapiexception_partialcreateorderoptions_exceptions_exception,"['polyapiexception' 'partialcreateorderoptions' 'exceptions' 'exception'
- 'error' 'able' 'request' 'raise' 'llimit' 'using']","['i use python just like in the docs here i am getting back signed order but when the code runs resp client post order signed order ordertype gtc i am getting the following error py clob client exceptions polyapiexception polyapiexception status code error message'
- 'raise polyapiexception resp py clob client exceptions polyapiexception polyapiexception status code error message been getting this exception a lot randomly sometimes my orders go through and sometimes they result in this even though i definitely have enough balance anyone know how to fix this'
- 'need help the error log is py clob client exceptions polyapiexception polyapiexception status code error message py clob client exceptions polyapiexception polyapiexception status code error message']",True,True,False,API Exception Errors
-12,28,12_desynchronization_synced_relogin_sync,"['desynchronization' 'synced' 'relogin' 'sync' 'windows' 'issue' 'clicked'
- 'cache' 'fix' 'problems']","['hey this usually means your system clock is out of sync with your network time search date time in windows and then click on the sync now button then try again'
- 'it would also be useful to check if your system time is in sync with your network time search date time in windows and then click on the sync now button then try again'
- 'a few things you can try different browser checking if your system time is in sync with your network time search date time in windows and then click on the sync now button then try again']",True,True,False,System Clock Sync Issue
-87,9,87_withdrawing_withdrawals_able_ability,"['withdrawing' 'withdrawals' 'able' 'ability' 'either' 'funds' 'withdraw'
- 'll' 'way' 'never']","['we would never interrupt the ability to withdraw'
- 'you ll always be able to sell positions and withdraw we will never lock withdrawing'
- 'if a break of tos is found the account will be set to close only mode you can withdraw your funds and sell your positions but you can t trade']",True,True,False,Withdrawal Issues
-166,5,166_devs_ask_please_users,['devs' 'ask' 'please' 'users' 'info' 'help' 'bump' 'sorry' 'dev' 'hello'],"['hi the best place to ask is in devs users have more information there'
- 'please ask the question in devs they re more experienced'
- 'i meant to ask the question in devs someone with more info will reply and help you']",True,False,False,Ask Devs for Help
-40,14,40_suggestion_suggestions_platform_pls,"['suggestion' 'suggestions' 'platform' 'pls' 'alternatives' 'either'
- 'devs' 'instead' 'users' 'please']","['there is currently no chinese channel if you d like one please suggest it in platform suggestions'
- 'i understand you want fa on the site i m just giving you some alternatives at the moment please put your suggestion in platform suggestions so the devs can see it instead'
- 'unfortunately none of the features you re asking for are currently available but if you d like to see them please suggest them in platform suggestions']",True,True,False,Feature Suggestions
-127,7,127_trading_polymarket_safari_iphone,"['trading' 'polymarket' 'safari' 'iphone' 'using' 'dots' 'app' 'website'
- 'offering' 'instead']","['i m not a fan of trading on website will polymarket launch the app version any soon'
- 'hey the polymarket app for android is only to search and look at markets to trade you must use the site'
- 'we have an app but it s only for information not trading however you can easily add a shortcut to your phone s home screen iphone open polymarket in safari tap the share button arrow pointing out of a square choose add to home screen android open polymarket in chrome tap the menu button three dots select add to home screen name the shortcut and tap add this shortcut provides a seamless app like experience offering all the features and functionality available on the mobile site']",True,True,False,Polymarket app usability
-66,11,66_banned_unbanned_impersonators_scams,"['banned' 'unbanned' 'impersonators' 'scams' 'theres' 'theyre' 'aware'
- 'users' 'sure' 'sent']","['unfortunately there s quite a lot of them all of them are banned but they still try to dm users to scam'
- 'thank you a lot for letting us know we re aware and banned a lot of them there s like like him unfortunately'
- 'yeah there s a lot of them unfortunately all of them are banned if you see any unbanned please let us know']",True,True,False,User Scams and Bans
-97,8,97_refunds_mistakes_refund_unfortunately,"['refunds' 'mistakes' 'refund' 'unfortunately' 'wrong' 'error' 'issue'
- 'arent' 'ticket' 'user']","['unfortunately the company doesn t offer refunds for user error'
- 'unfortunately the team doesn t offer refunds on user error'
- 'you can open a ticket but as i said we unfortunately do not offer refunds on user mistakes']",True,True,False,Refund Policy Issue
-34,16,34_browsers_caching_glitches_site,"['browsers' 'caching' 'glitches' 'site' 'issue' 'cache' 'errors' 'login'
- 'able' 'servers']","['clearing data cache for polymarket should solve this issue then right click inspect application storage clear site data'
- 'tell them to clear site data cache log out and then log back in and check their positions again right click inspect application storage clear site data'
- 'this is usually a temporary issue rate limit what you can do is clear the polymarket data on the browser you can t login in and then try again in an hour right click inspect application storage clear site data']",True,True,False,Browser Login Issues
-88,9,88_pasting_deploy_address_wallet,"['pasting' 'deploy' 'address' 'wallet' 'sent' 'clicked' 'fill' 'already'
- 'withdrawal' 'safe']","['when you click on deploy safe and then sign the prompt are you not getting an option to fill an address'
- 'after clicking deploy safe you will get a prompt to sign on your wallet after clicking confirm you should get an option to fill an address'
- 'after clicking deploy safe the wallet confirmation pops up and there is no additional place where i need to fill in the address']",True,True,False,Deploy Safe Address Issue
-95,8,95_apologies_apologize_appreciate_patience,"['apologies' 'apologize' 'appreciate' 'patience' 'inconvenience'
- 'escalated' 'meantime' 'frustrating' 'frustration' 'understanding']","['thank you for being understanding and we apologize for the inconvenience we will do our best'
- 'we completely understand your frustration and apologize for the inconvenience'
- 'we apologize for any frustration and thank you for your patience']",True,True,False,Customer Apology
-20,20,20_infecting_infections_influenza_infected,"['infecting' 'infections' 'influenza' 'infected' 'infection' 'cows'
- 'viruses' 'outbreak' 'viral' 'infect']","['one last thing there s a sentence that s been confusing some people in one of the cdc updates twenty one of these human cases were associated with exposure to avian influenza a h n virus infected poultry and were associated with exposure to infected dairy cows some people take this to mean that there are only cases of h n and cases of something else it s not the best grammar but clearly the infected dairy cows are infected with the same thing as the poultry avian influenza a h n'
- 'you re following a pattern here if something happens once every subsequent time it s automatically the same yes some cows and humans have been infected with h n yes some of those are fully sequenced and we know for sure it s h n with no mutations but the cdc has scientific standards that are not possible or not a priority to meet for some portion of the cow and human h infections in order to have statistical confidence that these are h n they even make this clear on the cdc website by telling us they tried and could not n type some of these it was a big enough deal for the cdc to walk back their language over time from h n to h yes it s wildly confusing that there s still a graphic with h n when it should say h to match the rest of the site perhaps in a year we will see h nx i think the vast majority of h infections in the us are likely h n but it s unproven according to the cdc and it s not up to you or me'
- 'h preferentially binds to a version of a sugar chain that is on the surface of bird cells and doesn t typically infect mammals which have a different flavor of that molecule h n can infect mammals but it s rare when it happens something is up and the world needs to investigate it s also super dangerous when the h viruses exist in the same host as a common human h flu then it s like rolling dice a million times on the change of making a new virus notice in all cdc info that they intentionally revert to h when talking about cows this is on purpose remember h is not a synonym for h n this chat is probably better in the epidemiology channel']",False,False,True,avian influenza outbreak
-131,6,131_glitches_happens_tabs_tab,"['glitches' 'happens' 'tabs' 'tab' 'again' 'multiple' 'afk' 'many'
- 'because' 'weird']","['it is weird because only glitches with multiple tabs'
- 'this usually happens if you have a lot of tabs open'
- 'this usually happens if you have too many tabs open']",True,True,False,Discord Tab Glitches
-85,9,85_redeemspositions_enabling_trading_relogin,"['redeemspositions' 'enabling' 'trading' 'relogin' 'approve' 'trades'
- 'enable' 'signing' 'issue' 'transactions']","['can you please try these steps press shift f log out then relogin go to a market and try to enable trading again'
- 'i was able to approve enable trading but when i try to sign the approve tokens i keep getting the error try again'
- 'hi im not able to submit trades because i get this pop up and when i click the buttons to enable trading and approve tokens nothing happens i tried waiting min does anyone have this issue']",True,True,False,Trading Issues
-122,7,122_intervals_sure_its_ah,"['intervals' 'sure' 'its' 'ah' 'depends' 'yeah' 'station' 'probably'
- 'like' 'said']","['ah yeah if its every few mins then what i said is probably overkill'
- 'for sure but i m also hoping they do a daily weekly monthly etc'
- 'i see it almost on daily bases should be abel to collect']",False,False,True,Frequency of Data Collection
-35,15,35_cloudflare_endpoint_cloudfront_banned,"['cloudflare' 'endpoint' 'cloudfront' 'banned' 'expiration' 'forbidden'
- 'cess' 'requests' 'error' 'blocked']","['hello i m getting a cloudflare error when placing an order with client create order i m running the program on google firebase server and have tried running it in hong kong spain israel and all give the same error any solutions to this'
- 'cess denied clob polymarket com used cloudflare to restrict access title meta charset utf p the owner of this website clob polymarket com has banned you temporarily from accessing this website p getting lot of this what causes this'
- 'i keep on getting this error p data translate blocked resolve detail you can email the site owner to let them know you were blocked please include what you were doing when this page came up and the cloudflare ray id found at the bottom of this page p when i am trying to place order via a job on google cloud run did anyone face this issue']",True,True,False,Cloudflare Errors
-101,8,101_rpcurl_endpoints_chainlist_dependencies,"['rpcurl' 'endpoints' 'chainlist' 'dependencies' 'rpc' 'fallback'
- 'configuring' 'frontend' 'provider' 'fix']","['here is another important question quys whats your experience with clob api and wss is it capable of sending false data similarily as the webbroswer frontend often tells you that either you have positions that you dont or dont have positions that you have'
- 'there is no recommended rpc service but there are many rpc services you can use including infura and alchemy you can also find free rpc services on chainlist'
- 'no moreso some outdated methods and configuring the collateral tokens is a trek although you can always get rid of it except then its a slight domino effect on managing all the dependencies i think its much better to start your own from scratch and use that as a guidance up until you encounter errors then you know how to fix it']",True,True,False,RPC Configuration Issues
-15,23,15_ui_buggy_bugs_interface,"['ui' 'buggy' 'bugs' 'interface' 'introducing' 'users' 'likes' 'switch'
- 'improved' 'us']","['they could at least give us the possibility to go back to the old ui'
- 'can you at least give us the possibility to switch to the old interface'
- 'happens like thousand or million times a day and please don t tell me i have a bad connection because i have a top notch g optic fiber and wifi it happens on all of those and on multiple locations and machines the problem is there for months stop introducing new ui and focus on fixing these bugs which prevent people from actually using the website']",True,True,False,UI Bugs and Issues
-120,7,120_item_backticks_below_loop,['item' 'backticks' 'below' 'loop' 'xyz' 'items' 'than' 'goes' 'get' 'fyi'],"['the for is for the items in the list for each item do x'
- 'it goes through all items in it it knows how many are in it since it knows what that list is below the surface of the code not worth explaining here'
- 'fyi you can surround text with backticks on both sides and it will format it a little more nicely you can even give a language tag by specifying the language name after the opening fence of backticks']",False,False,True,coding discussion
-148,6,148_custodial_wallet_funds_able,"['custodial' 'wallet' 'funds' 'able' 'access' 'keys' 'means' 'page'
- 'without' 'full']","['we have the non custodial wallet feature which means only your private keys control the funds and trading'
- 'i encourage you to read our page on the non custodial wallet feature which explains all of it'
- 'the problem is that due to the non custodial feature it s almost impossible to be able to access your funds positions without the main wallet or private key']",True,True,False,Non-Custodial Wallet Access
-39,14,39_hacked_authenticator_passcode_compromised,"['hacked' 'authenticator' 'passcode' 'compromised' 'sms' 'stolen'
- 'swapping' 'swapped' 'robbed' 'password']","['i appreciate the suggestion plenty of instances of google voip numbers being hacked voip aren t safe either despite privacy and security being different things they do go hand in hand and i ve never heard someone say that they re going to keep things private secure by signing up for google anything another suggestion is to allow us to delete the sms text fa even if that means selecting another fa method literally all fa methods are more secure than texting you could allow security keys e g yubikey or a second authenticator app even a six or eight digit passcode would be better than texting'
- 'nothing is wrong with fa but the type of fa matters because some of them are easier for nefarious actors to exploit the easiest one to exploit is sms text fa people wanting to steal your money will sim swap or port out your telephone number so the verification text goes to them instead of you if the verification text is going to them instead of you then they only need to figure out your password to be able to steal all your money time based one time password totp fa is less likely to be exploited e g google authenticator app microsoft authenticator app security keys are even more difficult to exploit e g yubikey google titan key as fa if a website like kalshi offers totp as a fa method that s great'
- 'but it s pointless to offer totp as a fa method if you are going to allow the user to select i don t have access to my authentication app as a way to make the system send a sms text instead kalshi allowing totp is great as long as they allow the account holder to delete the sms text fa as an option this prevents thieves from being able to avoid the totp requirement for logging into your account as it stands right now all the money you have on kalshi is vulnerable to getting stolen from a sim swap that you won t be able to prevent you and everyone else are just sitting ducks waiting to be robbed']",True,True,False,Account Security
-117,7,117_pnl_merging_realised_merge,"['pnl' 'merging' 'realised' 'merge' 'merged' 'include' 'gains'
- 'polymarket' 'transactions' 'identify']","['where can i see the realised pnl from merged trades'
- 'including realised pnl in the net position summary or make it easier to identify realised pnl when there are many bought sold merged transactions on a particular market'
- 'please improve the pnl tracking when you merge or sell positions at the moment i cant see realised return from merging or sales if i no longer hold any shares of the same side and i cant see the realised pnl when looking at the net position see your gains for each outcome scenario based on all your positions there needs to be a toggle to include realised and merged']",True,True,False,PNL Tracking Improvement
-163,5,163_seconds_timestampt_double_my,"['seconds' 'timestampt' 'double' 'my' 'lasts' 'saying' 'minute' 'last'
- 'tested' 'because']","['as far as i can tell it s seconds ill double check'
- 'i haven t tested it but i remember bb saying that it lasts on the order of minutes not seconds'
- 'nor your timestampt str if you dont show how you get it']",False,False,True,Time Measurement
-119,7,119_tomatometer_decimals_tomatoes_expiration,"['tomatometer' 'decimals' 'tomatoes' 'expiration' 'decimal' 'means'
- 'calculated' 'tomato' 'rounded' 'nearest']","['it s based on what the tomatometer says above means or higher on the tomatometer'
- 'if the tomatometer ever shows decimals then the nm reference would hit harder'
- 'do the rotten tomato markets consider the displayed score rounded to the nearest whole number or the calculated decimal score of total fresh rotten']",False,False,True,Rotten Tomatoes Score Calculation
-144,6,144_fed_bps_cutting_yup,"['fed' 'bps' 'cutting' 'yup' 'cuts' 'yes' 'situation' 'without' 'cut'
- 'resloved']","['yup if the fed hikes only then would resolve to yes'
- 'for the number of hikes in contracts does cuts resolve to yes in any situation where the fed hikes without cutting in'
- 'technically the fed would have cut times if the fed hikes only no']",False,False,False,Fed Rate Hikes
-96,8,96_ie_using_execute_gui,"['ie' 'using' 'execute' 'gui' 'api' 'client' 'issue' 'orders' 'buy'
- 'order']","['weird it should the same orders in gui and api if the maker is same'
- 'well as long as you can make the order in the gui it should be possible via api aswell'
- 'is there any way to ie prepare an order via the api but only execute it by calling something on chain']",True,True,False,API Order Execution
-1,70,1_clobclient_connectwallet_polyapiexception_getbalanceallowance,"['clobclient' 'connectwallet' 'polyapiexception' 'getbalanceallowance'
- 'getopenorders' 'balanceallowanceparams' 'getchainid' 'clob'
- 'initialclient' 'chainid']","['ok well in your rust program try setting signature type to and funder address to the address on your public profile when you init your clob client if u dont set those looks like rust defaults to eoa and uses the public address of your private key as the maker value on orders which shouldnt work why your python works idk but id start there with the rust'
- 'from dotenv import load dotenv import os from py clob client client import clobclient from py clob client constants import amoy from py clob client constants import polygon load dotenv def main host key os getenv private key funder os getenv polymarket proxy address chain id amoy chain id polygon client clobclient host key key chain id chain id signature type funder funder print client create api key main'
- 'docs say from py clob client client import clobclient host str key str chain id int initialization of a client that trades directly from an eoa client clobclient host key key chain id chain id initialization of a client using a polymarket proxy associated with an email magic account client clobclient host key key chain id chain id signature type funder polymarket proxy address initialization of a client using a polymarket proxy associated with a browser wallet metamask coinbase wallet etc client clobclient host key key chain id chain id signature type funder polymarket proxy address']",True,True,False,ClobClient Integration Issues
-26,18,26_laggy_slowness_sluggish_buggy,"['laggy' 'slowness' 'sluggish' 'buggy' 'ios' 'iphone' 'upgrade'
- 'scrolling' 'freezing' 'devs']","['is it just me or is the app absurdly slow right now on an iphone pro not the device not my wifi app is just being very clunky rn'
- 'latest iphone upgrade seems really slow if i m on my positions page and then tap to open a position it takes seconds for the bottom tray to open this is on a iphone pro'
- 'yes very much so everytime i open the app if im on for more than minutes looking around it will lag then freeze ultimately having to close the app this happens probably everytime i open the app if you look at watchlist it also makes your positions disappear as if you sold them forcing you again to close and re open the app']",True,True,False,iOS App Performance Issues
-162,5,162_token_ids_include_api,"['token' 'ids' 'include' 'api' 'request' 'link' 'address' 'll' 'added'
- 'subscription']","['i am looking for the token id to use the api for example how to get the token id of this link'
- 'dont include that markets token in your subscription request its just assets ids and type'
- 'i ve read these docs many times tested them many times and still can t get the token id of an active marketplace']",True,True,False,API Token Issues
-57,12,57_noah_replies_other_support,"['noah' 'replies' 'other' 'support' 'notice' 'issue' 'already' 'said'
- 'than' 'shouldn']","['noah dropping more bars than support replies rn'
- 'anyways my real problem is with noah i could have honestly kept the complaints to myself'
- 'you shouldn t have to watch it tho just in your catch functionality have it send an email message to noah he will let you know right away at least probably after the th ping']",True,True,False,Noah Support Issue
-139,6,139_ids_chain_logs_mean,['ids' 'chain' 'logs' 'mean' 'my' 'say' 'expected' 'ever' 'other' 'then'],"['when u say via on chain do u mean by indexing the logs'
- 'kay appreciate that i don t know in most cases is meant to mean what other chain ids are there'
- 'like chain id i m hours in and no one has confirmed what the bloody chain id property should be gah i think but good god is that ever burried in the docs']",True,True,False,chain id documentation
-112,7,112_notifs_notifications_browsers_enabled,"['notifs' 'notifications' 'browsers' 'enabled' 'otherwise' 'apps' 'doesnt'
- 'windows' 'ups' 'discord']","['i ve found most web browsers do not make sound for any web based notifications firefox does though so try that'
- 'it just tells me i do not have any notifications and i couldn t find a setting to turn them on i m more interested in actual push notifications anyways i thought you found a way to get discord notifications or something'
- 'on iphone the push notifications i get never make sound even though i have silent mode off have sound effect volume up have music volume up have app notifications enabled with sound enabled for those notifications other apps do make sound']",True,True,False,Discord Notifications
-91,9,91_outcomesprice_outcomeprices_outcomeprice_outcomes,"['outcomesprice' 'outcomeprices' 'outcomeprice' 'outcomes'
- 'lasttradeprice' 'outcome' 'closure' 'resolves' 'prices' 'deterministic']","['i have tried to verify that with the actual outcome on the polymarket website and that was not the case example hows yes no and the subgraph data at shows resolved price of but the final outcome is no per so i m not sure if it s actually boolean in the cfo where first value is true and second value is false hence i m curious how they are actually mapping the final outcome on the website'
- 'no it s doing exactly as its intended in that json response what it s saying is at the current moment yes index in outcomes resolves to a price point of index in outcomeprices and no index in outcomes resolves to a price point of index in outcomeprices and if you look at you can verify this by seeing that the bet side yes did indeed resolve to being priced at because its worthless'
- 'exactly right except ignore truthness outcome and outcomeprice just dictate the current price for each outcome based on the market activity nothing about what is true or not i e yes could be and no could be or if the market has closed or reached a point where the bet is deterministic you ll see outcome prices like yes no or yes no outcome price itself is not related to the closure or truthness of the market']",True,True,False,Polymarket Pricing Discrepancy
-137,6,137_updates_changes_happens_update,"['updates' 'changes' 'happens' 'update' 'using' 'change' 'orderbook'
- 'assume' 'sent' 'sync']","['i have no idea i just wait for book update events ngl i think those are re sent out anytime anything important happens'
- 'for the record i tried following both and was getting different price change updates for both i assume if i follow just one i ll get all the price change messages for that one'
- 'they stream the price changes too for each level as it happens but i think occasionally some changes slip through which is why its good to keep it sync w orderbook when you get the event']",True,True,False,Orderbook Updates
-3,53,3_demo_testing_algo_loads,"['demo' 'testing' 'algo' 'loads' 'test' 'acct' 'webpage' 'stuck' 'loop'
- 'accounts']","['it s probably easiest to just test in prod and try making orders with limited amount speed after you re familiar with everything else considering the state of the docs and example code i wouldn t trust the demo env to stay consistent anyway'
- 'i have a prod key and a demo key but i can only seem to get responses from the demo site if there is does the demo site not have any market history data for testing'
- 'hey guys i m trying to create a demo account right now with some mock funds to test out a trading algo but whenevr i try to go on the kalshi demo page it just gets stuck in a loading loop has anyone else encountered this issue']",True,True,False,Demo Account Issues
-114,7,114_dislikes_downvote_dislike_upvote,"['dislikes' 'downvote' 'dislike' 'upvote' 'removed' 'hate' 'comments'
- 'displike' 'delete' 'instagram']","['people simply displike to hate thats why youtube removed them there was no value in dislikes'
- 'add dislike button on comments or switch to upvote downvote'
- 'dislikes are so instagram youtube tiktok all have no dislike button for a reason']",True,True,False,dislike button feedback
-115,7,115_comments_clicking_notified_able,"['comments' 'clicking' 'notified' 'able' 'link' 'links' 'instead' 'sent'
- 'navigate' 'manually']","['ok how about this a checkbox for comments which is posts with links only and it just filters out all comments except those which contain a link to news ideally fresh and de duped but that can be v'
- 'i suggest a simple but great addition would be that notifications of comments responses will lead you directly to the regarding comment and not just the marketdiscussion it has been posted in now i aint going to search trough hunderds comments to find the response i got'
- 'when you get notified on the website about someone s reply to your comment you should get sent there straight if u click on the notification maybe something similar to how it s done on discord at the moment you have to scroll through every comment and manually open each reply section under it']",True,True,False,Notification Improvements
-92,9,92_celsius_fahrenheit_celcius_thermometer,"['celsius' 'fahrenheit' 'celcius' 'thermometer' 'rounded' 'nearest'
- 'unless' 'inaccuracy' 'farenheight' 'temperature']","['the only thing is the temperature that they post is rounded to the nearest whole number in celsius then converted to farenheight'
- 'celsius to fahrenheit to celcius the data gets converted through multiple servers it s a mess'
- 'celsius to fahrenheit to celsius some of the data passes through multiple systems and they transform the data into inaccuracy']",True,True,False,Temperature Inaccuracy
-124,7,124_canceled_insufficient_amounts_funds,"['canceled' 'insufficient' 'amounts' 'funds' 'rejected' 'collateral'
- 'either' 'payout' 'orders' 'again']","['this is the second day in a row where my open orders have gotten canceled when the market opens at am with the to insufficient funds message but the order amounts are well under my available cash i created a bug'
- 'i am suffering i have gotten the dreaded hundred emails of order cancelled due to insufficient funds and i need my payout so i can put in all my bids again for hunddreds of markets'
- 'i have a suggestion for canceled orders or maybe i m just not looking in the right spot sometimes if i draw down my cash on a particular contract and i have other limit orders that will get canceled based on my balance in my cash account i get an email notification but all it says is that the order was cancelled i m not sure what the limit price of the order was so if i either add cash or get paid out on a contract i cannot easily place that limit order again it should say what the limit order was and maybe even if it was potentially going to get filled or if it s just canceled because i didn t have the funds']",True,True,False,Order Cancellations
-161,5,161_collateral_offsetting_mutual_brackets,"['collateral' 'offsetting' 'mutual' 'brackets' 'prices' 'buy' 'minus'
- 'offset' 'exclusivity' 'bracket']","['if you buy n yes contracts in a market and subsequently buy n no contracts then your positions will offset and you will be returned your collateral plus or minus any profit or loss on the difference in prices'
- 'no basically i think if you buy multiple nos in one market depending on the prices you bought the other nos after first become cash that you can then use as cash elsewhere however that will only hold if you get the brackets correct at resolution'
- 'no collateral return will occur if you have nos in two or more brackets in a mutually exclusive event so going from no contracts in bracket to contracts in only one bracket will result in the cash balance offset from the mecnet going away and thus your balance will not increase as much as you may expect and even may go down as to the note that they could all resolve to no this is not a determiner of mutual exclusivity that is determined by the fact that only one of the markets can resolve to yes the key word is can since none of them could resolve to yes and that statement still be true']",True,False,False,Contract Offset
-45,14,45_depositors_fdic_banking_prudential,"['depositors' 'fdic' 'banking' 'prudential' 'ledgers' 'banks' 'lender'
- 'bank' 'insured' 'loans']","['agreed i will add that even fdic pass through insurance is seemingly worthless at this point the fdic has taken evolve bank s side in the synapse issue even though evolve was shown not to have proper controls and placed it entirely on synapse by claiming funds were in transit despite explicit approved advertisement by the fintech partners pf fdic insurance through evolve so no advertisement by a third party around fdic insurance carries any weight with me anymore the fdic has shown they don t intend to enforce their rules or uphold their promises'
- 'when you deposit money at a bank you expect the bank to give it back to you there are two things you might worry about two sets of risks that might prevent the bank from giving you back your money one which we talk about a lot around here and which is pretty central to the history and theory of banking and bank regulation is that the bank might lose the money banks do not generally just keep your money in the vault they use it to make loans so there is risk the loans might default or depositors might all demand their money back at once when the bank does not have a lot of ready cash these kinds of risk are very well understood there is an extensive literature about them they re in it s a wonderful life and bank capital and liquidity regulation and prudential supervision are designed to minimize the risk that a bank will lose your money by investing it poorly and if things do go wrong there is an extensive system of government backstops the federal reserve as a lender of last resort the federal deposit insurance corporation s guarantee of bank deposits etc to make sure that depositors will get their money anyway'
- 'what and the bank might be totally solvent and have invested your in very safe things but it won t give it back to you because it doesn t have a record of you this risk is also heavily regulated though you hear about it less that regulation is just less controversial there are material and debatable trade offs in bank capital and liquidity regulation a bank with tons of capital will be safer but it will also have less capacity to lend to the real economy so there are debates about what the optimal level of capital should be whereas with keeping track of the money there are fewer trade offs banks should entirely keep track of the money nobody is lobbying for actually bank ledgers should be a bit more loosey goosey the proper amount of losing track of the money is none and this risk is harder to fix after the fact if a bank loses all your money the fdic can give you your money back because the fdic is the government and can print money if the bank loses its list of who has the money what can the fdic do']",True,False,False,FDIC banking risks
-159,5,159_sells_sellpositionfloor_turning_flip,"['sells' 'sellpositionfloor' 'turning' 'flip' 'selling' 'ops' 'button'
- 'buttons' 'using' 'ui']","['oh does turning off flip selling in ui not turn it off in api'
- 'please fix the flip sell button turning itself back on if i turn it off and fully close the app it is immediately back on when i open it it s ridiculous that i am turning it off every single time i use the app'
- 'question about flip sells and the kalshi api in the kalshi app and web site there is an option to turn flip sells off i would like to avoid flip sells when using the api but can t find any clear information about how to do this in the createorder api there is the sell position floor param which looks promising but the documentation mentions this is only for market orders i e sellpositionfloor will not let you flip position for a market order if set to does anyone here have any experience with this']",True,True,False,Flip Sell Button Issue
-100,8,100_grading_graded_finished_again,"['grading' 'graded' 'finished' 'again' 'issue' 'happened' 'placed'
- 'another' 'ops' 'closed']","['it s hard telling what happened the whole site was bugging up kalshi my s p bet got graded thank you'
- 'super frustrating because i have seen other peoples stuff graded that happened after s p finished for the day'
- 'hey kalshi ops i was the one who was having issues with the s p from yesterday i just placed another wager on s p today was yesterday s delay for grading due to the site issues']",True,True,False,grading issues
-79,10,79_payouts_payout_losses_cotnracts,"['payouts' 'payout' 'losses' 'cotnracts' 'payments' 'cents' 'settlement'
- 'dollar' 'total' 'paid']","['i have been noticing this a lot this must be a bug i think the contract should have covered the contract cost and should have received way more than i feel like i am getting less than break even i am wondering why my account hasn t been growing this past month it is because of stuff like this this is wrong please explain and please fix this'
- 'hello i need help i am disappointed there is something wrong with the payout i won a trade on nasdaq today where i brought contracts but it only paid out with an average price of cents but i lost on another trade for nasdaq today for contracts i lost the average price was cents why am i losing more money that i am making'
- 'this has probably been mentioned before but payouts and portfolio values are simply wrong overinflated and don t regonize the negative risk payments that have already been paid out for example i got all the third party candidate nos c so shouldn t the payouts actually say just of what it currently states the payout if win should mean how much money hits your account on settlement not simply the of contracts']",True,True,False,Payout Issues
-116,7,116_depositing_deposits_debit_deposit,"['depositing' 'deposits' 'debit' 'deposit' 'fraud' 'able' 'issue'
- 'trouble' 'payment' 'card']","['any update on the payment issue of depositing with debit card'
- 'so anyone having a issue with depositing via debit card is under your radar for fraud'
- 'also why has this always happened every single time ive tried to deposit via debit card on the app yet this doesn t in browser']",True,True,False,Debit Card Deposits
-118,7,118_deposited_kalshi_emailed_deposits,"['deposited' 'kalshi' 'emailed' 'deposits' 'joined' 'ops' 'sent' 'sure'
- 'added' 'cards']","['kalshi ops i messaged you with a very serious concern i deposited it charged my card but said error code and you guys are working on something'
- 'kalshi ops hey there we added some security features to prevent some fraud on kalshi so existing cards may no longer work'
- 'kalshi ops hi joined around the election and love it q are our deposits secured by a governmental agency bank etc and could you point me to the relevant link docs if so']",True,True,False,Kalshi Deposit Issues
-14,26,14_expiration_infections_influenza_uses,"['expiration' 'infections' 'influenza' 'uses' 'infection' 'updates'
- 'misleading' 'expired' 'labeled' 'confusing']","['i ve read every word the cdc has written about avian influenza on every page published in addition i ve spent considerable time reading the actual scientific literature on this topic after all i m a molecular biology phd now working in another field so this is a rare outlet for my love of genetics this is an argument of semantics you think that all h infections are automatically h n and don t require molecular proof i think they are likely h n but do require molecular proof i think we both agree that this market has been difficult for kalshi because the original underlying listing h n stopped reporting what we all know is still happening at some level i think kalshi has been as clear as they intend to be on this h will not count only h n and that is up to the cdc so far there is no direct evidence from the cdc that shows over h n cases and that is not likely to change before market expiration i doubt the people coming here for rules clarification want to read a debate on viral genome classification but i m happy to discuss it further in the epidemiology channel'
- 'it s wildly misleading that kalshi has linked to a source in the about section of h n market to a credible texas report showing over specific h n cases and yet those don t count because they aren t on the past global infections cdc page that is the entity verification a reasonable person would heavily bet yes without realizing that the real contract here is whether or not the cdc will update a past infection page for by the end of the year this needs a green box in the least or better just close the contract and refund people i know that kalshi is also aware that there is a troll in the comment section sagacious on that market attempting to manipulate the price by spamming this market across kalshi and amplifying the disqualified information the over h n infections from the kalshi texas link and the over h nx infections from the cdc that he knows are disqualified in order to drive down the price of no'
- 'scroll up i pointed out to kalshi that the top graphic h n is confusing on a cdc current infection page that kalshi has decided is generic for h and does not resolve the contract the link in the full rules goes to a broken cdc page and not the actual page that will resolve the market also confusing is the actual entity that matters is a cdc page labeled past global infections to resolve a current year question in the us only also confusing is the link kalshi provided in the summary leads to a texas page that clearly says there are more than h n infections in the us in kalshi needs to clarify this confusion with a green box or simply refund this market and close it fwiw not all highly pathogenic avian influenza hpai are h not all h are h n plenty of humans have died from the other hpai bird flus humans have also been infected and died in asia with h n the terms are not interchangeable it s reasonable to assume that all these us infections are indeed h n because that s what the us chickens and cows all have i agree it s absolutely misleading that the graphic at the top of the cdc current infection page says h n and yet that page doesn t resolve the market apparently because the text doesn t specify h n that s not a distinction that it s reasonable to make and i think crosses a legal line i lost money betting on yes because the rules were unclear']",True,True,False,Kalshi Market Confusion
-150,6,150_means_values_lowest_exclusionary,"['means' 'values' 'lowest' 'exclusionary' 'extreme' 'mean' 'highest'
- 'becomes' 'second' 'excluded']","['the of highest and lowest values not related to the time'
- 'or just the most extreme of values total so the top of the last seconds wont count and the bottom of the last seconds wont count'
- 'highest lowest so of the final strikes before pm or total of the most extreme values in the final strikes before pm']",False,False,True,Extreme Values
-56,12,56_automate_station_uses_stations,"['automate' 'station' 'uses' 'stations' 'apis' 'used' 'server' 'manually'
- 'becomes' 'goes']","['brb going to buy a weather station and install it near the lat long lol'
- 'the purest perfection there is a bot that trades on weather when the data becomes available pretty much by always ahead of the rest'
- 'are you trying to make a weather trader bot on a raspberry pi with an attached temperature sensor that you can place next to each of the stations used in the weather markets']",False,False,False,Weather Station Automation
-104,8,104_authenticate_endpoints_authenticated_endpoint,"['authenticate' 'endpoints' 'authenticated' 'endpoint' 'using' 'user'
- 'logging' 'log' 'requests' 'api']","['not sure its a little inconsistent which require auth and which dont what url are you trying'
- 'if you were using user pass for auth i dont think that works anymore and youll need to use an api key'
- 'you have choices you can use the auth token route by logging in or you can use the api key']",True,True,False,API Authentication Issues
-83,10,83_cobol_mainframe_mainframes_using,"['cobol' 'mainframe' 'mainframes' 'using' 'computers' 'bugs' 'unless'
- 'versed' 'parenthesis' 'access']","['you need to submit the request in cobol there are some access protocols even before that to even talk to the server'
- 'not joking to get the timeliest data you need to access a server with a cobol command'
- 'let s put it this way when cobol was created most computer bugs were actual literal moths in the building size mainframe computers']",True,False,False,Mainframe Cobol Issues
-58,12,58_amended_amendorder_amend_modifying,"['amended' 'amendorder' 'amend' 'modifying' 'createorder' 'workaround'
- 'implementing' 'recreate' 'remove' 'changed']","['if there is a strong view one way or another we can look into implementing the flag there as well but for now amendorder has the same behavior it did before if the price is amended to cross the order crosses regardless of whether the post only flag on the original createorder was set to true or not'
- 'kalshi post only is not an order attribute it is an execution attribute once the order is on the book it makes no difference if it was post only or not so we do not store it you are right though that amend order does not take in the post only flag this is because post only on amend would create some inherent ambiguity would you expect a crossing order to cancel the amended order or to leave it as is'
- 'if i understand correctly the only scenario in which an amendorder could result in immediate execution is if you re modifying the price and it crosses the bid ask spread if you re updating price away from the spread or keeping the same price and just updating qty amendorder should always result in a resting order so the cancel recreate workaround which i think is slightly racy if the market shifts between the two calls should only be necessary when increasing bid or decreasing ask price']",True,True,False,Order Modification Issues
+topic_cluster,topic_count,name,representation,representative_docs,is_user_painpoint,is_product_feedback,is_user_request,is_noise,topic_name
+2,74,2_arc_part_hy_realized,"['arc' 'part' 'hy' 'realized' 'faulty' 'roundtrip' 'reimbursements'
+ 'partnerships' 'shake' 'aave']","['hello aave protocol and aave token are decentralized you can direct proposals to protocol governance or for example to aave protocol contributors such as aci aave grants dao etc directly connecting with them via twitter or governance forum or their available site if they have one more info at'
+ 'the issue with withdrawing your ampl from aave v is known and related to a faulty api from ampl that caused interest rates to be calculated incorrectly partial reimbursements have been facilitated via merkle and the ampl team is working on providing a solution'
+ 'hello aave community i have a question regarding the upcoming mica regulations in europe specifically concerning usdt i currently have an outstanding usdt debt on aave and i m concerned about the potential impact of usdt being banned in europe from december could someone please provide information on how will aave handle existing usdt debts for european users after this date']",True,True,True,False,Aave Protocol Issues
+35,6,35_lending_reward_berastone_you,"['lending' 'reward' 'berastone' 'you' 'berawaves' 'your' 'amount' 'pledge'
+ 'eusd' 'weth']","['if you provide berastone as collateral you will get your berawaves even if you didnt borrow anything'
+ 'hey i had confirmation that berastone used as collateral on morpho earns x bera wave points during boost period without need to borrow against actually the same than just holding berastone'
+ 'earn x bera wave points during the time limited boost based on the amount of berastone used as collateral in morp does it mean that i pledge us dollars and only need to borrow us dollar to get x ho to borrow weth and other assets']",False,True,False,False,Berastone Lending Rewards
+0,2273,0_chain_morpho_come_rate,['chain' 'morpho' 'come' 'rate' 'my' 'wallet' 'ui' 'tokens' 'usd' 'hi'],"['basically the liquidity allocated by a vault in x markets can be reallocated between said markets if the vault curators enabled the contract as of the vault then the liquidity can be reallocated for borrowers purpose within a few constraints the curators set flow caps to determine how much can come in out from a market the morpho interface has an algorithm that keep in check the pa purpose of this is if pa takes liquidity from market a to put it in market b because someone wants to borrow more than available in market b algorithm will make sure that it doesn t take too much liquidity of the market a because if it takes too much utilization rate of market a will increase as well as borrow rate tl dr curators enable pa and give it parameters goal of the pa is to allow on time liquidity for borrowers but without disturbing the market from which the liquidity is taken from'
+ 'all assets used on morpho collateral assets and loan assets when not borrowed are held in the morpho singleton smart contract this contract is very simple the protocol consists of only lines of solidity code is immutable morpho is not upgradable the protocol will run and behave the same way forever and has been multiple time audited and formally verified morpho is known for its industry leading security practices and follows a multi faceted approach to security see more on morpho security framework here in the unlikely case where the smart contract would be compromised only solution for users would be to retrieve their asset from the protocol i am not sure how a cold wallet managed by what who would be more reliable than an immutable and multiple time audited smart contract morpho protocol goes back to crypto ethos where there is literally no trusted third party because it s all immutable and permissionless but yes you have to trust the technology and safety of the smart contract this is why morpho has industry leading practices happy to develop if needed'
+ 'i m worried bc b of supply is not in proportion to on chain liquidity context the susde oracle is powered by a capo adapter usde chainlink feed liquidation is at fee is most loans backed by the bb susde are highly leveraged after a few big usde redeems the ethena minting redeem contract holds no more usdt and doesn t get replenished for minutes during which a whale dumps fat fingers m usde with only of slippage as most liquidity is in stablecoin pools but the price drops to usdc usd or such amount is sold in short time for whatever other reason some bots instantly buy usde and wait for replenishment of the redeem contract but the price is still well below the chainlink oracle updates causing liquidation on levered susde positions say m susde let s say there is m of sub slippage on chain susde usde liquidity so that s m worth of susde usde usdc flash loan liquidations outside of this slippage range of usde susde there is no flashloan liquidation possible maybe a few m of liquidations can be done by non flashloans eg the bot gets the susde and without selling pays back the usdc from his balance so no effect on price all on chain stablecoin liquidity bots and pools that could restore price gets used up by the cascade now the usde price and thus oracle price is toast what now with m that can be liquidated at a big discount']",True,True,True,False,Morpho Protocol Analysis
+1,108,1_marketliquidity_liquidations_liquidate_accumulate,"['marketliquidity' 'liquidations' 'liquidate' 'accumulate'
+ 'marketallocation' 'liquidated' 'liquidators' 'liquidator' 'falls'
+ 'vularibility']","['thanks it says how liquidations work liquidations on morpho are quite simple liquidators can liquidate up to of the account s debt and receive the corresponding collateral value plus the relative incentive no fee is taken by the morpho protocol at this level the entire liquidation incentive factor lif goes to the liquidator'
+ 'when liquidation occurs liquidators pay off up to of the outstanding loan amount on behalf of the borrower in exchange they can buy the collateral at a discount and keep the difference liquidation penalty as a bonus based on this definition we can assume the following sequence of events the value of the collateral body decreases below the threshold the liquidator pays off half of the collateral for me my collateral is reduced by half the liquidator buys out the remaining half of my collateral at a discount i completely lose my collateral the liquidator receives a bonus where am i wrong'
+ 'how to calculate liquidation price on aave the liquidation price is the price of the collateral asset at which a borrower s health factor falls below making their position eligible for liquidation key concepts health factor hf collateral value total value of your collateral in usd ltv loan to value maximum loan to value ratio for the collateral asset e g means you can borrow up to of the collateral s value debt value total value of your borrowed assets in usd liquidation threshold lt each collateral asset has a liquidation threshold which is lower than or equal to the ltv if the position becomes liquidatable liquidation price the price at which the value of the collateral multiplied by the liquidation threshold equals the borrowed amount for a single collateral single debt scenario steps to calculate liquidation price identify the variables collateral amount amount of collateral supplied e g eth borrowed amount total debt in usd liquidation threshold lt percentage specific to the collateral asset e g for eth use the formula example collateral eth borrowed debt liquidation threshold lt if the price of eth falls to the health factor will drop below and the position will become liquidatable']",False,False,False,False,Crypto Liquidation
+19,10,19_btc_stablecoins_wbtc_cbbtc,"['btc' 'stablecoins' 'wbtc' 'cbbtc' 'awbtc' 'lbtc' 'deposit' 'my'
+ 'happening' 'borrowing']","['het can someone explain to me why on the market wbtc cbbtc and on fluid dashboard it shows wbtc cbbtc'
+ 'there is only one lbtc cbbtc market on base the lbtc cbbtc lltv b a a a c e a d network base this market has an oracle that uses a redstone fundamental feed for lbtc btc looks hardcoded hardcodes btc cbbtc'
+ 'yo wtf is happening with the cbbtc wbtc pool i lost over of my btc in the last weeks is there some impermanent loss that is not disclosed thats fucke dup for a stable pair']",True,False,False,False,Cryptocurrency Issues
+34,6,34_stablecoin_stablecoins_coins_btc,"['stablecoin' 'stablecoins' 'coins' 'btc' 'ebtc' 'rates' 'borrowing'
+ 'significantly' 'wallet' 'would']","['does anyone know anywhere where i can borrow stablecoins against ebtc etherfi wrapped btc'
+ 'stablecoin utilization spiked how can i determine if this was caused by more people borrowing or more people withdrawing their stablecoins'
+ 'it is normal for borrowing rates for stablecoins to be high and fluctuate significantly this is due to high demand and insufficient supplied liquidity which increases interest rates to incentivize more suppliers and fewer borrowers']",True,False,True,False,Stablecoin Borrowing
+3,73,3_chainlink_deposit_usr_volume,"['chainlink' 'deposit' 'usr' 'volume' 'borrowing' 'im' 'ill' 'ish'
+ 'ledger' 'reconnect']","['hello i have a question regarding usd usdc market ce faa b a e ece fa a network mainnet it mentions that collateral in this market is not re hypothecated and thus does not yield it means that du usd won t give me any yield'
+ 'hello i have tried to make a deposit in usdc on the eth network with ledger and it did not go through although they did charge me network fees can someone explain to me the reason and whether or not it can be done with the ledger wallet thank you'
+ 'regarding the performance of the usdc eth pool the usdc eth pool has been performing well recently gaining increasing market share in terms of volume compared to other dexs however its price range is quite wide at how does this pool manage to maintain competitive pricing that attracts such significant volume despite the wide price range']",True,True,True,False,Deposit Issues
+31,7,31_staking_boosted_turbo_vaults,"['staking' 'boosted' 'turbo' 'vaults' 'vault' 'incentives' 'choose'
+ 'cmiiw' 'so' 'now']","['what if we propose sushi to diversify into inst'
+ 'kindly request manager to turn off infinite turbo sell twap'
+ 'omg incentives for moonwell vaults will be reduced so much time to choose another options']",True,True,True,False,Staking Rewards Changes
+15,11,15_governance_announcements_gov_test,"['governance' 'announcements' 'gov' 'test' 'values' 'best' 'defi'
+ 'timelines' 'wrong' 'simulation']","['feel free to ask any questions or chat with others and yeah staying cautious about scams is definitely the way to go'
+ 'as tqt mentioned the best way to test could be using simulation mode you can try some values and run some calculations let us know if you still have any doubts'
+ 'hey so the governance forum on discord is a vulnerable place for spams most of the governance related announcements will happen on governance announcements and the discussion can be either on official forum gov instadapp io or here on defi talk or on general chat']",False,True,False,False,Governance Announcements
+24,9,24_amount_lbtc_rates_collat,"['amount' 'lbtc' 'rates' 'collat' 'lltv' 'loan' 'liquidation' 'borrowing'
+ 'principal' 'warning']","['since ltv is related to a position you need to input some info in order to get that if you want to know your ltv before actually opening your position you have to start a go to a market click on input collateral and borrow amount and it will show you the projected ltv'
+ 'the maximum ltv ratio represents the maximum borrowing power of a specific collateral for example if a collateral has an ltv of the user can borrow up to worth of eth in the principal currency for every eth worth of collateral i guess this applies to borrowers and on my funds are earning interests'
+ 'hey i got a question regarding ltv calculation i m depositing k worth of pt lbtc to borrow cbbtc on base the max borrowed amount i can get is front end show a warning that my borrowed position is near the max ltv of and liquidation ltv which is but as the number show my ltv should be just still a far bit away from the max ltv and quite less than the liquidation ltv is this ltv calculation right']",True,True,False,False,Loan Liquidation Risk
+23,9,23_website_cookies_enabled_main,"['website' 'cookies' 'enabled' 'main' 'interferes' 'trying' 'make' 'isn'
+ 'wallet' 'conflicting']","['make sure you don t have more than one wallet installed in your browser such as rabby and phantom'
+ 'everytime on chrome when i click browser wallet the website just keep spining and spining but does not connect'
+ 'make sure you don t have more than one wallet installed in your browser as one may be conflicting with the other']",True,True,False,False,Wallet Connection Issues
+17,10,17_claim_dashboard_button_vault,"['claim' 'dashboard' 'button' 'vault' 'live' 'streaming' 'deposits' 'user'
+ 'only' 'with']","['hi wen can i claim rewards token i mean is any time always in month'
+ 'the next question is if we want to redistribute the rewards to the user we must compute rewards ourselves from the deposit withdraw time of users and their amount claim the morpho rewards from the contract holding the vault tokens find a way to redistribute the rewards to each original depositor is this correct'
+ 'there should be the blue claim rewards button above i can see it']",True,True,True,False,Claiming Rewards
+4,56,4_creditapproval_optimal_rate_expiry,"['creditapproval' 'optimal' 'rate' 'expiry' 'current' 'slope' 'estimated'
+ 'rates' 'lending' 'compounded']","['as we know aave targets an optimal utilization rate typically between interest rate base rate utilization rate slope'
+ 'yday i was studying the borrowrate function and after some basic calculations the result somehow came down to thinker can someone help me with how exactly to calculate the initial borrow rate after the market is created and some deposits are done'
+ 'interest rates evolve according to the utilization rate of the market above of utilization rate interest rate will increase below utilization rate interest rate will decrease the farther from the utilization rate target the faster interest rate will increase see here how the adaptivecurveirm irm interest rate model works']",True,True,True,False,Interest Rate Calculation
+14,11,14_netapy_totalassetsusd_apy_my,"['netapy' 'totalassetsusd' 'apy' 'my' 'wsteth' 'fees' 'of' 'you' 'lfgo'
+ 'fluid']","['i hope you right aave without polygon sounds unbelievable to me in a bad way lfgo my polygoreans'
+ 'netapy doesn t include performance fees and net apy includes it'
+ 'netapy average apy over markets excluding performance fees and including rewards net apy is already taking account for the performance fee of the vault']",False,True,False,False,Net APY vs. Gross APY
+36,6,36_metric_apy_deposit_rate,"['metric' 'apy' 'deposit' 'rate' 'minus' 'base' 'current' 'hf' 'blue'
+ 'period']","['you can see net apy breakdown by hovering on the net apy numbers when there are three little blue starts'
+ 'hey you can check the breakdown of the net apy in by hovering on the apy number let s take the moonwell flagship eth network base vault as example it works the same for other vaults net apy displayed can be broken down in several sources as follow the rate interest rates paid by borrowers autocompounding continuously making your supply position increase over time e g around at current rate the rewards morpho and other token distributed by third parties this rewards are claimable on the side every weeks within an epoch system e g around in morpho around in well you can also see the underlying rate and rewards in the vault allocation frame'
+ 'you may be refering to net apy which is different net apy is the change in your net worth after one year your net worth is the difference between your supply and borrow its a tricky metric and its used to track hf performance over time']",True,True,False,False,Net APY Calculation
+21,10,21_voted_helpful_indication_new,"['voted' 'helpful' 'indication' 'new' 'sorry' 'made' 'got' 'you' 'follow'
+ 'sure']","['the bot s response is correct let us know if it was helpful'
+ 'you can follow the bot indication at each step using the commands let me know if not clear'
+ 'the bot answer is correct please let me know if that helps you']",False,True,False,False,Bot feedback
+6,33,6_smart_rate_principal_interest,"['smart' 'rate' 'principal' 'interest' 'guardian' 'processing' 'statement'
+ 'user' 'loan' 'collateral']","['hey so based on the composition of the pool the smart collateral keeps changing in value though if you calculate the exact amounts considering the pool prices then the values should be all good as the composition changes the pool price also shifts which might make things look skewed but just need to do a deeper calculation'
+ 'this error code is thrown when specific collateral conditions are not met this require statement is kind of difficult to understand so here s the summary from chatgpt the error is thrown if none of the following conditions are true the user is not using the asset as collateral if the user is using the asset as collateral the error is thrown the asset has an ltv loan to value of if the asset does not have ltv set to the error is thrown the user is trying to borrow an amount that is greater than their balance of atoken for that asset if the user tries to borrow an amount less than or equal to their balance the error is thrown'
+ 'calculating net percentage interest paid when collateral earns interest formula formula breakdown borrow interest rate the interest rate you pay on the borrowed amount collateral interest rate the interest rate you earn on the collateral you provide collateral amount the total value of the asset you supply as collateral borrowed amount the total value you borrow example calculation collateral supplied units of the asset collateral interest rate amount borrowed units of the same asset borrow interest rate step by step calculation calculate the interest earned on collateral collateral interest earned collateral interest rate collateral amount adjust for borrowed amount adjusted collateral interest calculate net interest paid net interest paid borrow interest rate adjusted collateral interest result net interest paid approximately general formula net interest paid borrow interest rate collateral interest rate collateral amount borrowed amount']",True,True,True,False,Smart Collateral Loan Issues
+16,10,16_cap_month_circulating_deposit,"['cap' 'month' 'circulating' 'deposit' 'amounts' 'timeframes' 'weekly'
+ 'documentation' 'rate' 'guide']","['good evening your supply apr chart is not updating it is stuck on december th'
+ 'browse to the supply section and click on supply for the asset you want to supply select the amount you d like to supply and submit your transaction once the transaction is confirmed your supply is successfully registered and you begin earning interest'
+ 'better to look at weekly apr it in most cases update once per day around pm utc there are some situations where it might not update but the rewards on next day will be double and so on']",True,True,False,False,APR Rate Update
+8,25,8_impersonators_scammers_contacted_scammer,"['impersonators' 'scammers' 'contacted' 'scammer' 'posting' 'nvm'
+ 'helpful' 'banned' 'malicious' 'dm']","['anyone trying to contact you without a purple name is a scammer please ignore all dms as the bot said there is no way to recover lost funds'
+ 'hey we have already an ai bot made inhouse here which tries to cleanup all the scam links redirecting to servers we cant stop them from posting links as the scammers keep finding ways to shove themselves in but we surely have curbed to a greater extent now most of the links get deleted within a few seconds'
+ 'you ve received a flood of messages from scammers i ve already banned everyone but just in case i hope you haven t clicked on any links to fake support tickets']",True,False,False,False,Discord Scammers
+20,10,20_reserve_reallocations_repaid_rebalancing,"['reserve' 'reallocations' 'repaid' 'rebalancing' 'withdrawal' 'remain'
+ 'liquidation' 'restore' 'after' 'would']","['from the avocado guide important note as of now gas once added to the gas reserve cannot be withdrawn please add only the amount you plan to use as gas we are working on the option to withdraw gas and it will be announced soon you can t withdraw the gas for now'
+ 'nope withdrawal gap has nothing to do with utilization rate you can withdraw even after utilization vault total is the total of only the vault protocol layer total also includes the lending protocol balances ohh so if you hover over the orange tooltip on the vault you will see that one of them is an old vault we had released a new version of vaults the first vaults with a better margin from liquidation'
+ 'if your health factor drops below part of your supplied collateral is sold to repay up to of your debt including a liquidation fee in your case a portion of your usdt collateral would be sold to cover that amount plus the fee the rest of your usdt collateral would remain in your account and the remaining bnb debt would still need to be repaid to restore your health factor to avoid liquidation you can either repay part of your debt or add more collateral to improve your health factor']",True,True,True,False,Gas Withdrawal Issues
+30,7,30_weeth_ethereum_usd_aping,"['weeth' 'ethereum' 'usd' 'aping' 'do' 'ignite' 'chain' 'susde' 'vaults'
+ 'fluid']","['can i supply zk token for ignite campaign from now on'
+ 'can we hide the vaults exposed to usd on the fe to prevent normies from aping in'
+ 'anyone know if i supply eth on zk chain i ll qualify for zk ignite campaign']",False,True,True,False,Zk Ignite Campaign
+26,9,26_pump_short_fluctuation_scared,"['pump' 'short' 'fluctuation' 'scared' 'stalling' 'change' 'past'
+ 'liquidity' 'low' 'today']","['yo whats the reason for so much price fluctuation today'
+ 'hey guys is there any reason for the pump the past couple hours'
+ 'did you change your mind after a couple weeks of price stalling']",True,False,False,False,Price Fluctuation Concern
+22,10,22_uniswap_wallet_markets_rates,"['uniswap' 'wallet' 'markets' 'rates' 'networks' 'chain' 'steal' 'funds'
+ 'potential' 'splitting']","['so in theory a bad actor could propose to steal all staked assets'
+ 'hello one could say yes splitting funds across different markets can help mitigate risks specific to individual networks such as liquidity shortages or market specific vulnerabilities'
+ 'hey yup so as you can see the image is a better representation of how a swap would work the caption at the bottom might get a bit confusing though maybe if you read the text it would make better sense']",True,False,False,False,Cryptocurrency Security
+9,22,9_wallet_approve_exit_cooldown,"['wallet' 'approve' 'exit' 'cooldown' 'deposit' 'disconnecting'
+ 'deposited' 'reconnecting' 'friction' 'subtract']","['try out with simulation there s a leverage button deposit and then leverage'
+ 'try disconnecting and reconnecting choosing the new trust wallet option from the menu'
+ 'the leverage button seems to create a whole new position actually its cheaper to borrow and then deposit manually lots of friction around leveraging']",True,True,False,False,Wallet Deposit Friction
+38,5,38_reallocation_pools_mentioning_phrasing,"['reallocation' 'pools' 'mentioning' 'phrasing' 'lenders' 'vault' 'vaults'
+ 'allocation' 'clarify' 'across']","['i have a question about the phrasing of additional rewards in some pools marked with the it says'
+ 'so does this mean that vault liquidity provided to a specific market is treated sepparatelly from the liquidity provided by individual lenders'
+ 'the example provided seems to reference liquidity being pulled from other markets not vaults could you clarify the relationship between vaults and liquidity reallocation across markets']",True,True,True,False,Liquidity Pool Clarification
+37,5,37_etherscan_blockchain_scan_snapshot,"['etherscan' 'blockchain' 'scan' 'snapshot' 'wallet' 'deposit' 'lowest'
+ 'btc' 'dapps' 'depositing']","['can i use blockchain explorer or scanner to check'
+ 'i want to deposit btc and borrow eth stables on base where can i check which protocol incurs the lowest borrow rates'
+ 'does anyone know of a website that can scan dapps to find the best apr for lending any token']",True,False,True,False,blockchain transaction analysis
+27,8,27_morpho_epochs_long_shorter,"['morpho' 'epochs' 'long' 'shorter' 'too' 'last' 'future' 'more' 'every'
+ 'around']","['current epoch started on december and should end around december'
+ 'where can i find information about epochs and hiw long do they last the base chain'
+ 'every two weeks at the moment last epoch ended on december goal is to make epochs as shorter as possible']",True,True,True,False,Epoch Length Feedback
+11,13,11_smart_efficient_tokens_ve,['smart' 'efficient' 'tokens' 've' 'we' 'inst' 'launch' 'may' 'ui' 'acts'],"['fluid dex v will have everything that uni v has to offer and much more like users can create range orders on debt on collateral side so we can assume that fluid dex v will be x more capital efficient than uni v'
+ 'hey so basically dex lending is a total novel concept we learn as we go and rest assured we are committed to fix things we will also be trying to create simulations beforehand if possible have put it under discussion'
+ 'hey i ve read the fluid documents and technical papers and keen to know fluid dex roadmap and timeline for when are you launching the dex itself']",False,True,True,False,Fluid DEX Launch
+10,13,10_appealing_debt_lenders_borrowing,"['appealing' 'debt' 'lenders' 'borrowing' 'liquidation' 'ca' 'be' 'we'
+ 'thanks' 'has']","['i don t know about that didn t see any comm about such topic you can check bad debt info on market pages'
+ 'ahhhh makes sense thanks ill try weird there isnt an explicit error for invalid assets'
+ 'the common risks for lending markets is bad debt fluid has never had bad debt and none of the instadapp products have ever lost users funds']",True,True,False,False,Debt Lending Risk
+28,8,28_curators_vicious_curator_eliminate,"['curators' 'vicious' 'curator' 'eliminate' 'decides' 'some' 'fundamental'
+ 'maintain' 'allocation' 'certain']","['so generally speaking if a curator wants to make a fundamental change to a vault they need to create a new one'
+ 'alongside with that they include letter grade ratings for their vaults'
+ 'for example there have been some vicious incidents in history regarding crv these types of extreme bad debts are voted on by the aave community to choose how to eliminate them what about some of the other bad debts']",True,True,False,False,Vault Management
+12,12,12_firms_coin_cap_supplier,"['firms' 'coin' 'cap' 'supplier' 'coins' 'creator' 'manifesting' 'lately'
+ 'created' 'doing']","['from what i could observed most of the time vaults creators also create market they will be using choosing the market s parameters to fit the risk profile of their vault'
+ 'liquidity is a vital factor for a coin s listing exchanges consider the trading volume and order book depth to ensure sufficient liquidity for investors coins with high liquidity are more likely to attract traders and provide a smooth trading experience'
+ 'i think it is inappropriate to talk about scam curators are independent third party that have their own strategy rebalancing between market and of allocation in each market is their choice only there are also cap they put into market to limit their market exposure as a borrower no one is forced to stay and you can repay at any time utilization rate of the market can be decreased either by the supplier side or the borrowing side i understand your point but curators also have risk management procedure that drive their reallocations no only rate even tho i expect from them that they are trying to give the best of both worlds']",False,True,False,False,Cryptocurrency Market Analysis
+40,5,40_delegate_change_rebrand_modify,"['delegate' 'change' 'rebrand' 'modify' 'governance' 'vote' 'proposal'
+ 'where' 'that' 'do']","['has the governance proposal to rebrand passed'
+ 'is there a place where i can go for info on the top delegate wallets'
+ 'is this something that requires a governance vote to modify']",False,False,True,False,Governance Proposals
+13,12,13_happiness_holidays_joyful_christmas,"['happiness' 'holidays' 'joyful' 'christmas' 'enthusiast' 'prosperity'
+ 'glad' 'being' 'wishing' 'holiday']","['may the year bring peace happiness and prosperity to everyone'
+ 'may this new year bring you success happiness and prosperity warm regards lfg'
+ 'hey everyone happy day after christmas not a holiday but sounds like one i am a new holder and really happy to have found this project i bought a good chunk because i think this project will be one of the top ones this cycle i need some assistance with a few questions how should i best position my tokens to gain some yield is there staking i have never used vaults so if this is the strategy can you please direct me to some reading or videos that walk me through it']",False,False,False,True,Holiday Wishes
+39,5,39_better_btc_you_chain,['better' 'btc' 'you' 'chain' 'usdt' 'stake' 'gho' 'do' 'scenarios' 'fees'],"['hello is gho more stable and competitive than usdc or usdt apy'
+ 'well generally speaking gho offers a better apy even more so if you stake it in the safety module'
+ 'why would usdc be better to take out as a loan compared to eth if im using btc as collateral in both scenarios']",False,True,False,False,Cryptocurrency Comparison
+29,8,29_milestone_proposal_repurchase_grants,"['milestone' 'proposal' 'repurchase' 'grants' 'discussed' 'want' 'yet'
+ 'additional' 'scope' 'impact']","['hi where can i find more information about the grants pilot program'
+ 'buy back info is discussed in the milestone section of this proposal e a faa c da'
+ 'hi admin i would like to confirm the future repurchase plan the team said that when the revenue reaches million us dollars the repurchase plan will be initiated does this revenue include the income from lite products']",False,False,True,False,Repurchase and Grants
+25,9,25_arb_delayed_are_re,['arb' 'delayed' 'are' 're' 'after' 'th' 'be' 'with' 'we' 'since'],"['the arbitrum v reward contract has been empty since november any eta on when it will be refilled'
+ 'it seems like the apr charts haven t been updated since jan th i pinged the dev team'
+ 'great if you re talking about arb reward claim i have same issue said announcement will be made since forever']",True,True,True,False,Arb Reward Delay
+18,10,18_snapshot_submit_vote_converted,"['snapshot' 'submit' 'vote' 'converted' 'off' 'votes' 'temp' 'that'
+ 'since' 'only']","['snapshot can be used for some non onchain votes other things answered by'
+ 'the snapshot vote doesn t say what asset it will be converted into just that wm will do it'
+ 'yes snapshot is only for off chain votes wm voting was done through there as it didnt have any extra contract intensive actions and thus could be simply done via snapshot']",False,True,False,False,Snapshot Voting
+32,7,32_interest_fee_be_only,['interest' 'fee' 'be' 'only' 'on' 'take' 'are' 'little' 'that' ''],"['oohh so when the performance fee is set from the interest paid by borrowers the corresponding based on the performance fee is automatically sent to the curator'
+ 'the vaults curators can take a performance fee the fee works by taking a of interest generated by the vault the maximum performance fee is you can see the vault s performance fee o nthe vautl page'
+ 'the performance fee works by taking a of interest generated by the vault so the interests that are not taken by the performance fee go to the suppliers creating the supply apy the rate more on performance fee here i can only assume that vaults not charging fees are bootsrapping liquidity and attracting users']",False,True,False,False,Performance Fees
+5,36,5_retroactively_retroactive_november_epochs,"['retroactively' 'retroactive' 'november' 'epochs' 'ongoing' 'expire'
+ 'bonus' 'accumulated' 'payouts' 'quickly']","['right now they are claimable every twoo weeks the next claim should be available on st december st january'
+ 'at the moment rewards are claimable every two weeks current epoch started on december and should end around december when the epoch ends rewards in the claimable in the future column will become claimable'
+ 'hey at the moment rewards are claimable every two weeks current epoch started on november and should end around december goal is indeed to make epochs shorter and there will most likely be a communciation when it does']",False,True,True,False,Reward Payout Schedule
+33,6,33_chain_etherscan_listed_cexes,"['chain' 'etherscan' 'listed' 'cexes' 'exchanges' 'tokens' 've' 'nice'
+ 'dex' 'required']","['so much for cex listing helping token price has only been down since it was listed hopefully we didn t just round trip and it s only following the rest of the market'
+ 'lately i ve been seeing transactions on dex screener that are different usually lower than etherscan and debank for example this transaction shows on dex screener but shows on debank history chain eth token inst'
+ 'overall spending anything to list on the cexes is bad idea we want to keep all listings fees as and only spend on marketing campaigns with cexes if required the way cexes work is a bit confidential that s why these expenses are not public and there is just a separate allocation for the listings but overall we want to keep these expenses as low as possible we are not chasing exchanges and we are not giving them tokens like that']",False,True,False,False,Token Listing Strategy

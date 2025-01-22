@@ -1,15 +1,11 @@
 author,date,content,protocol,topic_cluster,sentiment_score
-albist,2024-12-11,"hey!
-I was going to get back to you on your ticket but here is even better! Let me check this and come back to you asap. Closing the ticket in the mean time as I will get back to you here!",Morpho,0,0.5927
-76ixer,2025-01-11,when they ll create the new PT-USD0-March\USDC Vault??,Morpho,11,0.2732
-generalbooty4302,2024-12-04,"Hmm weird, some guy made a YouTube video about it 2 weeks ago",Morpho,25,-0.1779
-_maxoss,2024-12-05,Hi @albist | Morpho 🦋  and team. Could you please clarify if the pt-usd0++march24 oracle is hardcoded to a predefined Apr curve of the pt ? Or if it is the market value of the pt that is taken into consideration? Thanks,Morpho,6,0.34
-0xdarkstar,2025-01-14,"you dont really ""stake"" on a wallet app/extension - its just a frontend for your private key.",Aave Community,9,0.0
-schizoxbt,2025-01-01,will say to kinda quell a lot of the panic/whatever this is: some of this stuff isn't happening yet re: buybacks and such yet. We are fluid (kek) and things can always change. But trust that the team will keep an eye on stuff and are watching to see what happens going forward,Instadapp,0,0.5106
-magunto,2025-01-09,is there a plan to increase deposit  limits on zkS? (ignite pools),Aave Community,29,0.3182
-lovedret,2025-01-10,"https://app.morpho.org/vault?vault=0xbEef047a543E45807105E51A8BBEFCc5950fcfBa&network=mainnet
-always say ""Application error: a client-side exception has occurred (see the browser console for more information).""",Morpho,0,-0.4019
-adechevigne,2025-01-13,"Hey guys,
-In the repay function (see Morpho.sol, line 269, can't post a link apparently) in what unit is the assets parameter of the onMorphoRepay call? Because it looks like it should be multiplied by 10^12 to be usable (not sure if that's clear).
-I might be missing something though, I haven't done a lot of Solidity",Morpho,0,0.1779
-essah10,2024-12-04,"Hey yes its possible, if you have a good hf you can always withdraw some of your collateral, pls note that your hf will drop too then",Aave Community,0,0.5859
+yorgo_k,2024-12-05,Is it just me struggling when speaking with perplexity in any other language than English ?,Perplexity,11,-0.4215
+aakarsh.,2024-11-01,chatgpt has good looking visual and that chart as well for stocks and all,Perplexity,9,0.6124
+_paradroid,2024-11-12,they are probably trying to run whatever this update was again.,Perplexity,93,0.0
+6x8isjp42,2024-11-14,"I subscribed to Pro in Sep 12 2024. I just got a welcome email ""Thanks for joining Perplexity Pro!"" on Nov 12, 2024 - exactly on my 3rd billing cycle? Is this a coincidence or did you just start acknowledging signups a few months late?  It made me go check to see if I suddenly was getting double-billed?",Perplexity,8,0.0
+dailyfocus_daily,2024-09-17,"Opus is very beloved, I don’t think people would be happy lol",Perplexity,14,0.8777
+themer992,2024-11-26,maybe my impression on grok stayed at grok 1,Perplexity,36,0.2263
+jlin0452,2024-09-15,What exatcly it do? is it like making sonnet fell into different mode where it less censored.,Perplexity,2,0.2944
+sandeepcn998,2024-11-27,"@alex I was wondering if you could possibly know an estimated timeline for the refund process? The reason I'm asking is that I need to use my card for an important purchase, and this accidental charge has tied up a significant portion of my available credit. Since I haven't generated any API keys or used the service, I would greatly appreciate if this could be expedited",Perplexity,1,0.0
+sanderson7947,2024-09-08,You won't exceed the limit even with your families. :),Perplexity,37,0.5719
+yurko001,2025-01-15,"Is perplexity is down? I have tried to log in, but access was denied*",Perplexity,22,-0.5927
